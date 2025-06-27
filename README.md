@@ -2,8 +2,6 @@
     <img src="./img/top_banner.gif" alt="CodingWithJiro GitHub Banner ">
 </div>
 
-<br>
-
 # 👨🏻‍💻 &nbsp;About Me
 
 🧠 A self-taught frontend web developer focused on building accessible, responsive, and user-friendly websites.
@@ -17,8 +15,6 @@
 ## 💻 &nbsp;Explore My Work
 
 Curious to what I’ve been building? Check out my **[Projects Hub](https://github.com/CodingWithJiro/Projects)** — a growing collection of all the websites, challenges, and mini-apps I’ve built while learning frontend web development.
-
-<img alt="Night Coding" src="./img/night-coding.gif" align="right"/>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -44,6 +40,7 @@ Curious to what I’ve been building? Check out my **[Projects Hub](https://gith
 ![Elmar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodingWithJiro&show_icons=true&theme=radical&hide=prs,issues,contribs)
 
 ![Elmar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingWithJiro&layout=compact&langs_count=6&theme=radical)
+<img alt="Night Coding" src="./img/night-coding.gif" align="right"/>
 
 ## 🤝🏻 &nbsp;Connect with Me
 
