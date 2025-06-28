@@ -31,15 +31,15 @@ Curious to what I’ve been building? Check out my **[Projects Hub](https://gith
 ## 📈 &nbsp;GitHub Stats
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=CodingWithJiro&style=flat-square&color=FF2B83" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/CodingWithJiro?label=Followers&style=flat-square&color=FF2B83" alt="GitHub Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=CodingWithJiro&style=flat-square&color=CC0022" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/CodingWithJiro?label=Followers&style=flat-square&color=CC0022" alt="GitHub Followers"/>
 </p>
 
-[![Elmar’s GitHub Streak](https://streak-stats.demolab.com/?user=CodingWithJiro&theme=radical)](https://github.com/CodingWithJiro)
+[![Elmar’s GitHub Streak](https://streak-stats.demolab.com/?user=CodingWithJiro&theme=default&background=0D0D0D&ring=FF0033&fire=FF0033&currStreakLabel=00E0FF&sideNums=FF0033&sideLabels=00E0FF&currStreakNum=FF0033&dates=ffffff)](https://github.com/CodingWithJiro)
 
-![Elmar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodingWithJiro&show_icons=true&theme=radical&hide=prs,issues,contribs)
+![Elmar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodingWithJiro&show_icons=true&title_color=FF0033&text_color=ffffff&icon_color=00E0FF&bg_color=0D0D0D&hide=prs,issues,contribs)
 
-![Elmar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingWithJiro&layout=compact&langs_count=6&theme=radical)
+![Elmar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingWithJiro&layout=compact&langs_count=6&title_color=FF0033&text_color=FFFFFF&bg_color=0D0D0D)
 
 ## 🤝🏻 &nbsp;Connect with Me
 
