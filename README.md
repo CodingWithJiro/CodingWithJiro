@@ -6,15 +6,15 @@
 
 🧠 A self-taught frontend web developer focused on building accessible, responsive, and user-friendly websites.
 
-📚 I document and share every project I build here on GitHub—ranging from real-world web challenges to interactive educational tools.
+📚 I document and share every project I build here on GitHub ranging from real-world web challenges to interactive educational tools.
 
-🎯 **Current goal:** Actively seeking a frontend developer role — and open to freelance work. Let’s build something together!
+🎯 **Current goal:** Actively seeking a frontend developer role and open to freelance work. Let’s build something together!
 
 🚀 **Long-term vision:** Grow into full-stack development, AI, systems design, and cloud architecture.
 
 ## 💻 &nbsp;Explore My Work
 
-Curious to what I’ve been building? Check out my **[Projects Hub](https://github.com/CodingWithJiro/Projects)** — a growing collection of all the websites, challenges, and mini-apps I’ve built while learning frontend web development.
+Curious to what I’ve been building? Check out my **[Projects Hub](https://github.com/CodingWithJiro/Projects)** which is a growing collection of all the websites, challenges, and mini-apps I’ve built while learning frontend web development.
 
 ## 🛠 &nbsp;Tech Stack
 
