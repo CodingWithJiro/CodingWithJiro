@@ -35,7 +35,7 @@ Curious to what I’ve been building? Check out my **[Projects Hub](https://gith
   <img src="https://img.shields.io/github/followers/CodingWithJiro?label=Followers&style=flat-square" alt="GitHub Followers"/>
 </p>
 
-[![Elmar’s GitHub Streak](https://streak-stats.demolab.com/?user=CodingWithJiro&theme=radical&hide_border=true)](https://github.com/CodingWithJiro)
+[![Elmar’s GitHub Streak](https://streak-stats.demolab.com/?user=CodingWithJiro&theme=radical)](https://github.com/CodingWithJiro)
 
 ![Elmar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodingWithJiro&show_icons=true&theme=radical&hide=prs,issues,contribs)
 
