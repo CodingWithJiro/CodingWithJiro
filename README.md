@@ -31,8 +31,8 @@ Curious to what I’ve been building? Check out my **[Projects Hub](https://gith
 ## 📈 &nbsp;GitHub Stats
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=CodingWithJiro&style=flat-square&color=blue" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/CodingWithJiro?label=Followers&style=flat-square" alt="GitHub Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=CodingWithJiro&style=flat-square&color=FF2B83" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/CodingWithJiro?label=Followers&style=flat-square&color=FF2B83" alt="GitHub Followers"/>
 </p>
 
 [![Elmar’s GitHub Streak](https://streak-stats.demolab.com/?user=CodingWithJiro&theme=radical)](https://github.com/CodingWithJiro)
