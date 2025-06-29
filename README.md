@@ -39,6 +39,8 @@ Curious to what I’ve been building? Check out my **[Projects Hub](https://gith
 
 ![Elmar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodingWithJiro&show_icons=true&title_color=FF0033&text_color=ffffff&icon_color=00E0FF&bg_color=0D0D0D&hide=prs,issues,contribs)
 
+<img alt="Night Coding" src="./img/night-coding.gif" align="right" />
+
 ![Elmar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingWithJiro&layout=compact&langs_count=6&title_color=FF0033&text_color=FFFFFF&bg_color=0D0D0D)
 
 ## 🤝🏻 &nbsp;Connect with Me
@@ -54,8 +56,6 @@ If my GitHub helped you in some way, consider supporting me:
 
 [<img alt="Buy Me a Coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="147" />](https://buymeacoffee.com/)
 [<img alt="Ko-fi" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="35" width="147" />](https://ko-fi.com/)
-
-<img alt="Night Coding" src="./img/night-coding.gif" />
 
 ✨ Updated links coming soon
 
