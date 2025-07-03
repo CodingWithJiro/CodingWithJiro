@@ -8,15 +8,15 @@
 
 📚 I document and share **[every project](https://github.com/CodingWithJiro/Projects)** I build here on GitHub ranging from **real-world web challenges** to **interactive educational tools**.
 
-🎯 **Current goal:** Actively seeking a _frontend developer role_ and open to _freelance work_. Let’s build something together!
+🎯 **Current goal:** Actively seeking a _frontend developer role_ and open to _freelance work_.
 
 🚀 **Long-term vision:** Grow into _full-stack development_, _AI_, _systems design_, and _cloud architecture_.
 
-## 💻 Explore My Work
+# 💻 Explore My Work
 
 Check out my **[Projects Hub](https://github.com/CodingWithJiro/Projects)** which is a growing collection of all the websites, challenges, and mini-apps I’ve built while learning frontend web development.
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 [<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -28,7 +28,7 @@ Check out my **[Projects Hub](https://github.com/CodingWithJiro/Projects)** whic
 [<img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />](https://www.figma.com/)
 [<img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />](https://www.markdownguide.org/)
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=CodingWithJiro&style=flat-square&color=CC0022" alt="Profile views"/>
@@ -41,7 +41,7 @@ Check out my **[Projects Hub](https://github.com/CodingWithJiro/Projects)** whic
 
 ![Elmar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingWithJiro&layout=compact&langs_count=6&title_color=FF0033&text_color=FFFFFF&bg_color=0D0D0D)
 
-## ⚙️ Learning Progress
+# ⚙️ Learning Progress
 
 I'm actively following this **[frontend developer roadmap](https://roadmap.sh/frontend)** to guide my learning. Since then I have been exposed to multiple relevant documents that helped me where I am today.
 
@@ -51,14 +51,18 @@ Here's a snapshot of my current progress:
 
 [![roadmap.sh](https://roadmap.sh/card/wide/67de4dc78342031660de72cc?variant=dark&roadmaps=frontend)](https://roadmap.sh/u/elmarchavez)
 
-## 🤝🏻 Connect with Me
+# 🤝🏻 Connect with Me
+
+Let’s build something awesome together!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chavezelmar03@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodingWithJiro)
 
-## ☕ Support My Journey
+✨ Links to be updated
+
+# ☕ Support My Journey
 
 If my GitHub helped you in some way, consider supporting me:
 
