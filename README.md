@@ -51,6 +51,10 @@ Here's a snapshot of my current progress:
 
 [![roadmap.sh](https://roadmap.sh/card/wide/67de4dc78342031660de72cc?variant=dark&roadmaps=frontend)](https://roadmap.sh/u/elmarchavez)
 
+<a href="https://app.daily.dev/elmarchavez">
+<img src="https://api.daily.dev/devcards/v2/bK85rJb2OXXID2LX2wi5y.png?r=lig" width="356" alt="Elmar Chavez's Dev Card"/>
+</a>
+
 # 🤝🏻 Connect with Me
 
 Let’s build something awesome together!
