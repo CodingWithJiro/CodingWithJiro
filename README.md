@@ -47,9 +47,9 @@ I'm actively following this **[frontend developer roadmap](https://roadmap.sh/fr
 
 Here's a snapshot of my current progress:
 
-[![Frontend Roadmap](https://img.shields.io/badge/progress-13%25%20complete-blueviolet?style=flat-square&color=CC0022)](https://roadmap.sh/u/elmarchavez)
+[![Frontend Roadmap](https://img.shields.io/badge/progress-14%25%20complete-blueviolet?style=flat-square&color=CC0022)](https://roadmap.sh/u/elmarchavez)
 
-[![roadmap.sh](https://roadmap.sh/card/wide/67de4dc78342031660de72cc?variant=dark&roadmaps=frontend)](https://roadmap.sh/u/elmarchavez)
+[![roadmap.sh](https://roadmap.sh/card/wide/67de4dc78342031660de72cc?variant=dark)](https://roadmap.sh/u/elmarchavez)
 
 <a href="https://app.daily.dev/elmarchavez">
 <img src="./devcard.png" width="356" alt="Elmar Chavez's Dev Card"/>
