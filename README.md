@@ -43,13 +43,25 @@ Check out my **[Projects Hub](https://github.com/CodingWithJiro/Projects)** whic
 
 I'm actively following this **[frontend developer roadmap](https://roadmap.sh/frontend)** to guide my learning. Since then I have been exposed to multiple relevant documents that helped me where I am today.
 
-Here's a snapshot of my current progress:
+**Here's a snapshot of my current progress:**
 
 [![Frontend Roadmap](https://img.shields.io/badge/progress-14%25%20complete-blueviolet?style=flat-square&color=CC0022)](https://roadmap.sh/u/elmarchavez)
 
 [![roadmap.sh](https://roadmap.sh/card/wide/67de4dc78342031660de72cc?variant=dark)](https://roadmap.sh/u/elmarchavez)
 
-<a href="https://app.daily.dev/elmarchavez">
+Aside from making personal projects and reading theory, I enjoy solving code challenges in **[Codewars](https://www.codewars.com/users/CodingWithJiro)**. I do this to individually level up and polish my programming skills!
+
+**Here's my current rank:**
+
+<a href="https://www.codewars.com/users/CodingWithJiro" target="_blank">
+<img src="https://www.codewars.com/users/CodingWithJiro/badges/large" alt="Elmar Chavez's Codewars rank and points" />
+</a>
+
+Lastly, I follow the latest tech trends and web development here at **[daily.dev](https://daily.dev/)**. Whenever I get extra free time, I read an article or two that interests me.
+
+**Here's my personal statistics from daily.dev:**
+
+<a href="https://app.daily.dev/elmarchavez" target="_blank">
 <img src="./devcard.png" width="356" alt="Elmar Chavez's Dev Card"/>
 </a>
 
