@@ -57,6 +57,8 @@ Aside from making personal projects and reading theory, I enjoy solving code cha
 <img src="https://www.codewars.com/users/CodingWithJiro/badges/large" alt="Elmar Chavez's Codewars rank and points" />
 </a>
 
+<br>
+
 Lastly, I follow the latest tech trends and web development here at **[daily.dev](https://daily.dev/)**. Whenever I get extra free time, I read an article or two that interests me.
 
 **Here's my personal statistics from daily.dev:**
