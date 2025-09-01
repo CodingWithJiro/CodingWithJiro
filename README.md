@@ -35,7 +35,7 @@ Check out my **[Projects Hub](https://github.com/CodingWithJiro/Projects)** whic
   <img src="https://img.shields.io/github/followers/CodingWithJiro?label=Followers&style=flat-square&color=CC0022" alt="GitHub Followers"/>
 </p>
 
-![Elmar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodingWithJiro&show_icons=true&title_color=FF0033&text_color=ffffff&icon_color=00E0FF&bg_color=0D0D0D&hide=prs,issues,contribs)
+![Elmar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodingWithJiro&show_icons=true&title_color=FF0033&text_color=ffffff&icon_color=00E0FF&bg_color=0D0D0D)
 
 ![Elmar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingWithJiro&layout=compact&langs_count=6&title_color=FF0033&text_color=FFFFFF&bg_color=0D0D0D)
 
