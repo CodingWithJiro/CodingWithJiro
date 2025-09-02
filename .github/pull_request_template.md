@@ -1,29 +1,21 @@
-# Pull Request
-
 ## Description
 
-- A clear and concise description of what this PR does
+Provide a short summary of the changes. Mention the problem this PR solves or the feature it introduces.
 
-## Changes Made
+## Changes
 
-- List your key changes
+- List key changes here
+- Keep items concise
+- Use bullet points for clarity
 
-## Screenshots / Demo
+## Screenshots
 
-- Add screenshots, GIFs, or deployed link
+| Before                           | After                           |
+| -------------------------------- | ------------------------------- |
+| ![Before screenshot](IMAGE_LINK) | ![After screenshot](IMAGE_LINK) |
 
-## Testing Notes
+## Notes for Reviewers
 
-<!-- Steps to test your changes -->
-
-1.
-2.
-3.
-
-## Related Issues
-
-- Link related issues here
-
-## Reviewer Notes
-
-- Add special notes for reviewers (things to double-check, questions, etc.)
+- Call out anything reviewers should pay attention to
+- Mention if further setup is needed
+- State if this is a breaking change
