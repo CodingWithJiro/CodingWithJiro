@@ -16,6 +16,34 @@
 
 Check out my **[Projects Hub](https://github.com/CodingWithJiro/Projects)** which is a growing collection of all the websites, challenges, and mini-apps I’ve built while learning frontend web development.
 
+Here's some of my **latest projects**:
+
+## No One Asked
+
+_Get random advice, copy it, or share it in a click!_
+
+See **live site** or **code**: [🌐](https://no-one-asked-fcc-jiro.netlify.app/) | [💻](https://github.com/CodingWithJiro/freecodecamp-js-no-one-asked)
+
+[<img src="https://raw.githubusercontent.com/CodingWithJiro/freecodecamp-js-no-one-asked/main/assets/img/site-preview-desktop-dark_1440x960.png" alt="Project preview." width="400">](https://no-one-asked-fcc-jiro.netlify.app/)
+
+## JavaScript Fundamentals
+
+_A technical and interactive documentation W3Schools JS Tutorial clone. Let's learn JavaScript!_
+
+See **live site** or **code**: [🌐](https://javascript-fundamentals-jiro.netlify.app/) | [💻](https://github.com/CodingWithJiro/w3schools-js-tutorial-clone-site)
+
+[<img src="https://raw.githubusercontent.com/CodingWithJiro/w3schools-js-tutorial-clone-site/main/img/site-preview-desktop-dark_1440x960.png" alt="Project preview." width="400">](https://javascript-fundamentals-jiro.netlify.app/)
+
+## Keyboard Warrior
+
+_A fun and interactive drum beats app inspired from Wes Bos' #JavaScript30 course!_
+
+See **live site** or **code**: [🌐](https://keyboard-warrior-jiro.netlify.app/) | [💻](https://github.com/CodingWithJiro/wesbos-js-30-drumkit)
+
+[<img src="https://raw.githubusercontent.com/CodingWithJiro/wesbos-js-30-drumkit/main/assets/img/site-preview-desktop-dark_1440x960.png" alt="Project preview." width="400">](https://keyboard-warrior-jiro.netlify.app/)
+
+Check out my **[Projects Hub](https://github.com/CodingWithJiro/Projects)** to see more!
+
 # 🛠 Tech Stack
 
 [<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
