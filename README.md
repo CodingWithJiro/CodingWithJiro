@@ -66,7 +66,7 @@ I also enjoy solving code challenges in **[Codewars](https://www.codewars.com/us
 
 <br>
 
-Lastly, I follow the latest tech trends and web development here at **[daily.dev](https://daily.dev/)**. Whenever I get extra free time, I read an article or two that interests me.
+I also follow the latest tech trends and web development in **[daily.dev](https://daily.dev/)**. I read an article or two that interests me whenever I need a breather from actual coding.
 
 **Here's my personal statistics from daily.dev:**
 
