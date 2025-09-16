@@ -52,11 +52,11 @@ I'm actively following this **[frontend developer roadmap](https://roadmap.sh/fr
 
 **Here's a snapshot of my current progress:**
 
-[![Frontend Roadmap](https://img.shields.io/badge/progress-14%25%20complete-blueviolet?style=flat-square&color=CC0022)](https://roadmap.sh/u/elmarchavez)
+[![Frontend Roadmap](https://img.shields.io/badge/progress-9%25%20complete-blueviolet?style=flat-square&color=CC0022)](https://roadmap.sh/frontend?s=67de4dc78342031660de72cc)
 
 [![roadmap.sh](https://roadmap.sh/card/wide/67de4dc78342031660de72cc?variant=dark)](https://roadmap.sh/u/elmarchavez)
 
-Aside from making personal projects and reading theory, I enjoy solving code challenges in **[Codewars](https://www.codewars.com/users/CodingWithJiro)**. I do this to individually level up and polish my programming skills!
+I also enjoy solving code challenges in **[Codewars](https://www.codewars.com/users/CodingWithJiro)** to further level up and polish my programming skills!
 
 **Here's my current rank:**
 
@@ -66,7 +66,7 @@ Aside from making personal projects and reading theory, I enjoy solving code cha
 
 <br>
 
-Lastly, I follow the latest tech trends and web development here at **[daily.dev](https://daily.dev/)**. Whenever I get extra free time, I read an article or two that interests me.
+I also follow the latest tech trends and web development in **[daily.dev](https://daily.dev/)**. I read an article or two that interests me whenever I need a breather from actual coding.
 
 **Here's my personal statistics from daily.dev:**
 
