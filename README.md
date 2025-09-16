@@ -56,7 +56,7 @@ I'm actively following this **[frontend developer roadmap](https://roadmap.sh/fr
 
 [![roadmap.sh](https://roadmap.sh/card/wide/67de4dc78342031660de72cc?variant=dark)](https://roadmap.sh/u/elmarchavez)
 
-Aside from making personal projects and reading theory, I enjoy solving code challenges in **[Codewars](https://www.codewars.com/users/CodingWithJiro)**. I do this to individually level up and polish my programming skills!
+I also enjoy solving code challenges in **[Codewars](https://www.codewars.com/users/CodingWithJiro)** to further level up and polish my programming skills!
 
 **Here's my current rank:**
 
