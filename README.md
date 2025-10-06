@@ -27,7 +27,7 @@ Here are some of my latest projects (🌐 Live Demo · 💻 Source Code):
 | [<img src="https://raw.githubusercontent.com/CodingWithJiro/freecodecamp-js-no-one-asked/main/assets/img/site-preview-desktop-dark_1440x960.png" alt="Project preview." width="400">](https://no-one-asked-fcc-jiro.netlify.app/) | [<img src="https://raw.githubusercontent.com/CodingWithJiro/freecodecamp-js-fortune-teller/main/assets/img/site-preview-desktop-dark_1440x960.png" alt="Project preview." width="400">](https://veil-and-visions-fcc-jiro.netlify.app/) | [<img src="https://raw.githubusercontent.com/CodingWithJiro/freecodecamp-js-weather-app/main/assets/img/site-preview-desktop-dark_1440x960.png" alt="Project preview." width="400">](https://raindrop-fcc-jiro.netlify.app/) |
 |                                                                                         _Get a random advice, copy it or share it in X!_                                                                                          |                                                                                      _Draw three cards to reveal your past, present, and future!_                                                                                       |                                                                                  _A weather app powered by freeCodeCamp API with a twist!_                                                                                   |
 
-# 🛠 Tech Stack
+# Tech Stack
 
 [<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -39,7 +39,7 @@ Here are some of my latest projects (🌐 Live Demo · 💻 Source Code):
 [<img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />](https://www.figma.com/)
 [<img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />](https://www.markdownguide.org/)
 
-# 📈 GitHub Stats
+# GitHub Stats
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=CodingWithJiro&style=flat-square&color=CC0022" alt="Profile views"/>
@@ -50,7 +50,7 @@ Here are some of my latest projects (🌐 Live Demo · 💻 Source Code):
 
 ![Elmar's Top Languages](https://github-readme-stats-codingwithjiro.vercel.app/api/top-langs/?username=CodingWithJiro&layout=compact&langs_count=6&title_color=FF0033&text_color=FFFFFF&bg_color=0D0D0D&cache_seconds=1800)
 
-# ⚙️ Learning Progress
+# Learning Progress
 
 I'm actively following this **[frontend developer roadmap](https://roadmap.sh/frontend)** to guide my learning. Since then I have been exposed to multiple relevant documents that helped me where I am today.
 
@@ -78,7 +78,7 @@ I also follow the latest tech trends and web development in **[daily.dev](https:
 <img src="./devcard.png" width="356" alt="Elmar Chavez's Dev Card"/>
 </a>
 
-# 🤝🏻 Connect with Me
+# Connect with Me
 
 Let’s build something awesome together!
 
@@ -87,13 +87,13 @@ Let’s build something awesome together!
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodingWithJiro)
 
-✨ Twitter link to be updated
+_Twitter link to be updated_
 
-# ☕ Support My Journey
+# Support My Journey
 
 If my GitHub helped you in some way, consider supporting me:
 
 [<img alt="Buy Me a Coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="147" />](https://buymeacoffee.com/)
 [<img alt="Ko-fi" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="35" width="147" />](https://ko-fi.com/)
 
-✨ Links to be updated
+_Links to be updated_
