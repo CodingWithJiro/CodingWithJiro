@@ -2,15 +2,15 @@
     <img src="./img/top_banner.gif" alt="CodingWithJiro GitHub Banner ">
 </div>
 
-# 👨🏻‍💻 About Me
+# About Me
 
-🧠 A **self-taught frontend web developer** focused on building accessible, responsive, and user-friendly websites.
+- A **self-taught frontend web developer** focused on building accessible, responsive, and user-friendly websites
 
-📚 I document and share **[every project](https://github.com/CodingWithJiro/Projects)** I build here on GitHub ranging from **real-world web challenges** to **interactive educational tools**.
+- I document and share **[every project](https://github.com/CodingWithJiro/Projects)** I build ranging from real-world web apps to interactive educational sites
 
-🎯 **Current goal:** Actively seeking a _frontend developer role_ and open to _freelance work_.
+- **Current goal:** Actively seeking a _frontend developer role_ and open to _freelance work_
 
-🚀 **Long-term vision:** Grow into _full-stack development_, _AI_, _systems design_, and _cloud architecture_.
+- **Long-term goal:** Grow into _full-stack development_, _AI_, _systems design_, and _cloud architecture_
 
 # 💻 Explore My Work
 
