@@ -2,33 +2,32 @@
     <img src="./img/top_banner.gif" alt="CodingWithJiro GitHub Banner ">
 </div>
 
-# 👨🏻‍💻 About Me
+# About Me
 
-🧠 A **self-taught frontend web developer** focused on building accessible, responsive, and user-friendly websites.
+- A **self-taught frontend web developer** focused on building accessible, responsive, and user-friendly websites
 
-📚 I document and share **[every project](https://github.com/CodingWithJiro/Projects)** I build here on GitHub ranging from **real-world web challenges** to **interactive educational tools**.
+- I document and share **[every project](https://github.com/CodingWithJiro/Projects)** I build ranging from real-world web apps to interactive educational sites
 
-🎯 **Current goal:** Actively seeking a _frontend developer role_ and open to _freelance work_.
+- **Current goal:** Actively seeking a _frontend developer role_ and open to _freelance work_
 
-🚀 **Long-term vision:** Grow into _full-stack development_, _AI_, _systems design_, and _cloud architecture_.
+- **Long-term goal:** Grow into _full-stack development_, _AI_, _systems design_, and _cloud architecture_
 
-# 💻 Explore My Work
+# Explore My Work
 
 Check out my **[Projects Hub](https://github.com/CodingWithJiro/Projects)** which is a growing collection of all the websites, challenges, and mini-apps I’ve built while learning frontend web development.
 
-Here are some of my **latest projects** (🌐 Live Demo · 💻 Source Code):
+Here are some of my latest projects (🌐 Live Demo · 💻 Source Code):
 
-| TickTock [🌐](https://ticktock-jiro.netlify.app/) · [💻](https://github.com/CodingWithJiro/wesbos-js-30-clock)                                                                                             | JavaScript Fundamentals [🌐](https://javascript-fundamentals-jiro.netlify.app/) · [💻](https://github.com/CodingWithJiro/w3schools-js-tutorial-clone-site)                                                                            | Keyboard Warrior [🌐](https://keyboard-warrior-jiro.netlify.app/) · [💻](https://github.com/CodingWithJiro/wesbos-js-30-drumkit)                                                                                          |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [<img src="https://raw.githubusercontent.com/CodingWithJiro/wesbos-js-30-clock/main/assets/img/site-preview-desktop_1440x960.png" alt="Project preview." width="400">](https://ticktock-jiro.netlify.app/) | [<img src="https://raw.githubusercontent.com/CodingWithJiro/w3schools-js-tutorial-clone-site/main/img/site-preview-desktop-dark_1440x960.png" alt="Project preview." width="400">](https://javascript-fundamentals-jiro.netlify.app/) | [<img src="https://raw.githubusercontent.com/CodingWithJiro/wesbos-js-30-drumkit/main/assets/img/site-preview-desktop-dark_1440x960.png" alt="Project preview." width="400">](https://keyboard-warrior-jiro.netlify.app/) |
-| _Search a location's current date and time!_                                                                                                                                                               | _A technical and interactive documentation W3Schools JS Tutorial clone site!_                                                                                                                                                         | _A fun drum beats app inspired from Wes Bos' #JavaScript30 course!_                                                                                                                                                       |
-
-| No One Asked [🌐](https://no-one-asked-fcc-jiro.netlify.app/) · [💻](https://github.com/CodingWithJiro/freecodecamp-js-no-one-asked)                                                                                              | Veil and Visions [🌐](https://veil-and-visions-fcc-jiro.netlify.app/) · [💻](https://github.com/CodingWithJiro/freecodecamp-js-fortune-teller)                                                                                          | RainDrop [🌐](https://raindrop-fcc-jiro.netlify.app/) · [💻](https://github.com/CodingWithJiro/freecodecamp-js-weather-app)                                                                                                  |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                         |                                                                                                                                                                                                                              |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                        **TickTock** [🌐](https://ticktock-jiro.netlify.app/) · [💻](https://github.com/CodingWithJiro/wesbos-js-30-clock)                                                         |                                     **JavaScript Fundamentals** [🌐](https://javascript-fundamentals-jiro.netlify.app/) · [💻](https://github.com/CodingWithJiro/w3schools-js-tutorial-clone-site)                                      |                                             **Keyboard Warrior** [🌐](https://keyboard-warrior-jiro.netlify.app/) · [💻](https://github.com/CodingWithJiro/wesbos-js-30-drumkit)                                             |
+|            [<img src="https://raw.githubusercontent.com/CodingWithJiro/wesbos-js-30-clock/main/assets/img/site-preview-desktop_1440x960.png" alt="Project preview." width="400">](https://ticktock-jiro.netlify.app/)             |  [<img src="https://raw.githubusercontent.com/CodingWithJiro/w3schools-js-tutorial-clone-site/main/img/site-preview-desktop-dark_1440x960.png" alt="Project preview." width="400">](https://javascript-fundamentals-jiro.netlify.app/)  |  [<img src="https://raw.githubusercontent.com/CodingWithJiro/wesbos-js-30-drumkit/main/assets/img/site-preview-desktop-dark_1440x960.png" alt="Project preview." width="400">](https://keyboard-warrior-jiro.netlify.app/)   |
+|                                                                                           _Search a location's current date and time!_                                                                                            |                                                                              _A technical and interactive documentation W3Schools JS Tutorial clone site!_                                                                              |                                                                             _A fun drum beats app inspired from Wes Bos' #JavaScript30 course!_                                                                              |
+|                                             **No One Asked** [🌐](https://no-one-asked-fcc-jiro.netlify.app/) · [💻](https://github.com/CodingWithJiro/freecodecamp-js-no-one-asked)                                              |                                           **Veil and Visions** [🌐](https://veil-and-visions-fcc-jiro.netlify.app/) · [💻](https://github.com/CodingWithJiro/freecodecamp-js-fortune-teller)                                            |                                               **RainDrop** [🌐](https://raindrop-fcc-jiro.netlify.app/) · [💻](https://github.com/CodingWithJiro/freecodecamp-js-weather-app)                                                |
 | [<img src="https://raw.githubusercontent.com/CodingWithJiro/freecodecamp-js-no-one-asked/main/assets/img/site-preview-desktop-dark_1440x960.png" alt="Project preview." width="400">](https://no-one-asked-fcc-jiro.netlify.app/) | [<img src="https://raw.githubusercontent.com/CodingWithJiro/freecodecamp-js-fortune-teller/main/assets/img/site-preview-desktop-dark_1440x960.png" alt="Project preview." width="400">](https://veil-and-visions-fcc-jiro.netlify.app/) | [<img src="https://raw.githubusercontent.com/CodingWithJiro/freecodecamp-js-weather-app/main/assets/img/site-preview-desktop-dark_1440x960.png" alt="Project preview." width="400">](https://raindrop-fcc-jiro.netlify.app/) |
-| _Get a random advice, copy it or share it in X!_                                                                                                                                                                                  | _Draw three cards to reveal your past, present, and future!_                                                                                                                                                                            | _A weather app powered by freeCodeCamp API with a twist!_                                                                                                                                                                    |
+|                                                                                         _Get a random advice, copy it or share it in X!_                                                                                          |                                                                                      _Draw three cards to reveal your past, present, and future!_                                                                                       |                                                                                  _A weather app powered by freeCodeCamp API with a twist!_                                                                                   |
 
-# 🛠 Tech Stack
+# Tech Stack
 
 [<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -40,7 +39,7 @@ Here are some of my **latest projects** (🌐 Live Demo · 💻 Source Code):
 [<img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />](https://www.figma.com/)
 [<img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />](https://www.markdownguide.org/)
 
-# 📈 GitHub Stats
+# GitHub Stats
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=CodingWithJiro&style=flat-square&color=CC0022" alt="Profile views"/>
@@ -51,50 +50,48 @@ Here are some of my **latest projects** (🌐 Live Demo · 💻 Source Code):
 
 ![Elmar's Top Languages](https://github-readme-stats-codingwithjiro.vercel.app/api/top-langs/?username=CodingWithJiro&layout=compact&langs_count=6&title_color=FF0033&text_color=FFFFFF&bg_color=0D0D0D&cache_seconds=1800)
 
-# ⚙️ Learning Progress
+# Learning Progress
 
 I'm actively following this **[frontend developer roadmap](https://roadmap.sh/frontend)** to guide my learning. Since then I have been exposed to multiple relevant documents that helped me where I am today.
 
-**Here's a snapshot of my current progress:**
+## Current Roadmap Progress
 
 [![Frontend Roadmap](https://img.shields.io/badge/progress-9%25%20complete-blueviolet?style=flat-square&color=CC0022)](https://roadmap.sh/frontend?s=67de4dc78342031660de72cc)
 
 [![roadmap.sh](https://roadmap.sh/card/wide/67de4dc78342031660de72cc?variant=dark)](https://roadmap.sh/u/elmarchavez)
 
-I also enjoy solving code challenges in **[Codewars](https://www.codewars.com/users/CodingWithJiro)** to further level up and polish my programming skills!
+## Current Codewars Rank
 
-**Here's my current rank:**
+I solve code challenges daily in **[Codewars](https://www.codewars.com/users/CodingWithJiro)** to further level up and polish my programming skills!
 
 <a href="https://www.codewars.com/users/CodingWithJiro" target="_blank">
 <img src="https://www.codewars.com/users/CodingWithJiro/badges/large" alt="Elmar Chavez's Codewars rank and points" />
 </a>
 
-<br>
+## Current Reading Statistics
 
-I also follow the latest tech trends and web development in **[daily.dev](https://daily.dev/)**. I read an article or two that interests me whenever I need a breather from actual coding.
-
-**Here's my personal statistics from daily.dev:**
+Finally, I follow the latest tech trends and web development in **[daily.dev](https://daily.dev/)**. I read an article or two that interests me whenever I need a breather from actual coding.
 
 <a href="https://app.daily.dev/elmarchavez" target="_blank">
 <img src="./devcard.png" width="356" alt="Elmar Chavez's Dev Card"/>
 </a>
 
-# 🤝🏻 Connect with Me
+# Connect with Me
 
-Let’s build something awesome together!
+You can follow or message me in the following links for future collaborations!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elmar-chavez/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chavezelmar03@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodingWithJiro)
 
-✨ Twitter link to be updated
+_Twitter link to be updated_
 
-# ☕ Support My Journey
+# Support My Journey
 
 If my GitHub helped you in some way, consider supporting me:
 
 [<img alt="Buy Me a Coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="147" />](https://buymeacoffee.com/)
 [<img alt="Ko-fi" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="35" width="147" />](https://ko-fi.com/)
 
-✨ Links to be updated
+_Links to be updated_
