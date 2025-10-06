@@ -54,25 +54,23 @@ Here are some of my latest projects (🌐 Live Demo · 💻 Source Code):
 
 I'm actively following this **[frontend developer roadmap](https://roadmap.sh/frontend)** to guide my learning. Since then I have been exposed to multiple relevant documents that helped me where I am today.
 
-**Here's a snapshot of my current progress:**
+## Current Roadmap Progress
 
 [![Frontend Roadmap](https://img.shields.io/badge/progress-9%25%20complete-blueviolet?style=flat-square&color=CC0022)](https://roadmap.sh/frontend?s=67de4dc78342031660de72cc)
 
 [![roadmap.sh](https://roadmap.sh/card/wide/67de4dc78342031660de72cc?variant=dark)](https://roadmap.sh/u/elmarchavez)
 
-I also enjoy solving code challenges in **[Codewars](https://www.codewars.com/users/CodingWithJiro)** to further level up and polish my programming skills!
+## Current Codewars Rank
 
-**Here's my current rank:**
+I solve code challenges daily in **[Codewars](https://www.codewars.com/users/CodingWithJiro)** to further level up and polish my programming skills!
 
 <a href="https://www.codewars.com/users/CodingWithJiro" target="_blank">
 <img src="https://www.codewars.com/users/CodingWithJiro/badges/large" alt="Elmar Chavez's Codewars rank and points" />
 </a>
 
-<br>
+## Current Reading Statistics
 
-I also follow the latest tech trends and web development in **[daily.dev](https://daily.dev/)**. I read an article or two that interests me whenever I need a breather from actual coding.
-
-**Here's my personal statistics from daily.dev:**
+Finally, I follow the latest tech trends and web development in **[daily.dev](https://daily.dev/)**. I read an article or two that interests me whenever I need a breather from actual coding.
 
 <a href="https://app.daily.dev/elmarchavez" target="_blank">
 <img src="./devcard.png" width="356" alt="Elmar Chavez's Dev Card"/>
