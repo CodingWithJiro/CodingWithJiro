@@ -4,7 +4,7 @@
 
 # About Me
 
-- A **self-taught frontend web developer** focused on building accessible, responsive, and user-friendly websites
+- A **licensed civil engineer** transitioning into **frontend web development** focused on building accessible, responsive, and user-friendly websites
 
 - I document and share **[every project](https://github.com/CodingWithJiro/Projects)** I build ranging from real-world web apps to interactive educational sites
 
