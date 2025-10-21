@@ -57,6 +57,10 @@ I'm actively following this **[frontend developer roadmap](https://roadmap.sh/fr
 
 [![roadmap.sh](https://roadmap.sh/card/wide/67de4dc78342031660de72cc?variant=dark)](https://roadmap.sh/u/elmarchavez)
 
+## Current Frontend Mentor Points
+
+I committed to actively engaging with the **[Frontend Mentor](https://www.frontendmentor.io/profile/CodingWithJiro)** community by giving daily feedback to other developers and creating real-world projects based on their challenges.
+
 ## Current Codewars Rank
 
 I solve code challenges daily in **[Codewars](https://www.codewars.com/users/CodingWithJiro)** to further level up and polish my programming skills!
