@@ -61,6 +61,10 @@ I'm actively following this **[frontend developer roadmap](https://roadmap.sh/fr
 
 I committed to actively engaging with the **[Frontend Mentor](https://www.frontendmentor.io/profile/CodingWithJiro)** community by giving daily feedback to other developers and creating real-world projects based on their challenges.
 
+<a href="https://www.frontendmentor.io/profile/CodingWithJiro" target="_blank">
+<img src="./img/frontend-mentor-profile.png" alt="Elmar Chavez's Frontend Mentor profile garnering 1600+ points." width="400" style="border-radius: 50px" />
+</a>
+
 ## Current Codewars Rank
 
 I solve code challenges daily in **[Codewars](https://www.codewars.com/users/CodingWithJiro)** to further level up and polish my programming skills!
