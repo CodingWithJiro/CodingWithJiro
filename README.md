@@ -49,9 +49,11 @@ Here are some of my latest projects (🌐 Live Demo · 💻 Source Code):
 
 # Learning Progress
 
-I'm actively following this **[frontend developer roadmap](https://roadmap.sh/frontend)** to guide my learning. Since then I have been exposed to multiple relevant documents that helped me where I am today.
+The following are the steps I follow in learning frontend development:
 
 ## Current Roadmap Progress
+
+I'm actively following this **[frontend developer roadmap](https://roadmap.sh/frontend)** to guide my learning. Since then I have been exposed to multiple relevant documents that helped me where I am today.
 
 [![Frontend Roadmap](https://img.shields.io/badge/progress-9%25%20complete-blueviolet?style=flat-square&color=CC0022)](https://roadmap.sh/frontend?s=67de4dc78342031660de72cc)
 
@@ -62,7 +64,7 @@ I'm actively following this **[frontend developer roadmap](https://roadmap.sh/fr
 I committed to actively engaging with the **[Frontend Mentor](https://www.frontendmentor.io/profile/CodingWithJiro)** community by giving daily feedback to other developers and creating real-world projects based on their challenges.
 
 <a href="https://www.frontendmentor.io/profile/CodingWithJiro" target="_blank">
-<img src="./img/frontend-mentor-profile.png" alt="Elmar Chavez's Frontend Mentor profile garnering 1600+ points." width="400" style="border-radius: 50px" />
+<img src="./img/frontend-mentor-profile.png" alt="Elmar Chavez's Frontend Mentor profile garnering 1600+ points." width="400" />
 </a>
 
 ## Current Codewars Rank
