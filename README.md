@@ -49,9 +49,11 @@ Here are some of my latest projects (🌐 Live Demo · 💻 Source Code):
 
 # Learning Progress
 
-I'm actively following this **[frontend developer roadmap](https://roadmap.sh/frontend)** to guide my learning. Since then I have been exposed to multiple relevant documents that helped me where I am today.
+The following are the steps I follow in learning frontend development:
 
 ## Current Roadmap Progress
+
+I'm actively following this **[frontend developer roadmap](https://roadmap.sh/frontend)** to guide my learning. Since then I have been exposed to multiple relevant documents that helped me where I am today.
 
 [![Frontend Roadmap](https://img.shields.io/badge/progress-9%25%20complete-blueviolet?style=flat-square&color=CC0022)](https://roadmap.sh/frontend?s=67de4dc78342031660de72cc)
 
