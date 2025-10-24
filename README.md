@@ -4,9 +4,13 @@
 
 # About Me
 
-- A **licensed civil engineer** transitioning into **frontend web development** focused on building accessible, responsive, and user-friendly websites
+- **Licensed civil engineer** turned **frontend developer** focused on building accessible, responsive, and user-centered web apps
 
 - I document and share **[every project](https://github.com/CodingWithJiro/Projects)** I build ranging from real-world web apps to interactive educational sites
+
+- Active in **Frontend Mentor** developer community, where I regularly review code and exchange feedback with other developers
+
+- Recently began contributing to **open-source projects**, expanding my collaborative and problem-solving skills
 
 - **Current goal:** Actively seeking a _frontend developer role_ and open to _freelance work_
 
