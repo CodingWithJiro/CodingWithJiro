@@ -73,7 +73,7 @@ I committed to actively engaging with the **[Frontend Mentor](https://www.fronte
 
 ## Current Codewars Rank
 
-I solve code challenges daily in **[Codewars](https://www.codewars.com/users/CodingWithJiro)** to further level up and polish my programming skills!
+I solve code challenges daily in **[Codewars](https://www.codewars.com/users/CodingWithJiro)** and **[freeCodeCamp](https://www.freecodecamp.org/learn/daily-coding-challenge/archive)** to further level up and polish my programming skills. Currently I am in the **top 1%** in CodeWars.
 
 <a href="https://www.codewars.com/users/CodingWithJiro" target="_blank">
 <img src="https://www.codewars.com/users/CodingWithJiro/badges/large" alt="Elmar Chavez's Codewars rank and points" />
