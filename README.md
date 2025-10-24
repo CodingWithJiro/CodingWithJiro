@@ -4,9 +4,13 @@
 
 # About Me
 
-- A **licensed civil engineer** transitioning into **frontend web development** focused on building accessible, responsive, and user-friendly websites
+- **Licensed civil engineer** turned **frontend developer** focused on building accessible, responsive, and user-centered web apps
 
 - I document and share **[every project](https://github.com/CodingWithJiro/Projects)** I build ranging from real-world web apps to interactive educational sites
+
+- Active in **Frontend Mentor** developer community, where I regularly review code and exchange feedback with other developers
+
+- Recently began contributing to **open-source projects**, expanding my collaborative and problem-solving skills
 
 - **Current goal:** Actively seeking a _frontend developer role_ and open to _freelance work_
 
@@ -69,7 +73,7 @@ I committed to actively engaging with the **[Frontend Mentor](https://www.fronte
 
 ## Current Codewars Rank
 
-I solve code challenges daily in **[Codewars](https://www.codewars.com/users/CodingWithJiro)** to further level up and polish my programming skills!
+I solve code challenges daily in **[Codewars](https://www.codewars.com/users/CodingWithJiro)** and **[freeCodeCamp](https://www.freecodecamp.org/learn/daily-coding-challenge/archive)** to further level up and polish my programming skills. Currently I am in the **top 1%** in CodeWars.
 
 <a href="https://www.codewars.com/users/CodingWithJiro" target="_blank">
 <img src="https://www.codewars.com/users/CodingWithJiro/badges/large" alt="Elmar Chavez's Codewars rank and points" />
@@ -85,7 +89,7 @@ Finally, I follow the latest tech trends and web development in **[daily.dev](ht
 
 # Connect with Me
 
-You can follow or message me in the following links for future collaborations!
+You can follow or message me in the following links or view **[my latest CV here](https://docs.google.com/document/d/1EgAQ13Kd732JbctzxesEL9H9eETYl2Twdtxsou2qc_8/edit?usp=drive_link)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elmar-chavez/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chavezelmar03@gmail.com)
