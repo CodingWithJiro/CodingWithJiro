@@ -89,7 +89,7 @@ Finally, I follow the latest tech trends and web development in **[daily.dev](ht
 
 # Connect with Me
 
-You can follow or message me in the following links or view **[my latest CV here](https://docs.google.com/document/d/1EgAQ13Kd732JbctzxesEL9H9eETYl2Twdtxsou2qc_8/edit?usp=drive_link)**
+You can follow or message me in the following links below or view **[my latest CV here](https://docs.google.com/document/d/1EgAQ13Kd732JbctzxesEL9H9eETYl2Twdtxsou2qc_8/edit?usp=drive_link)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elmar-chavez/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chavezelmar03@gmail.com)
