@@ -98,11 +98,11 @@ You can follow or message me in the following links or view **[my latest CV here
 
 _Twitter link to be updated_
 
-# Support My Journey
+<!-- # Support My Journey
 
 If my GitHub helped you in some way, consider supporting me:
 
 [<img alt="Buy Me a Coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="147" />](https://buymeacoffee.com/)
 [<img alt="Ko-fi" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="35" width="147" />](https://ko-fi.com/)
 
-_Links to be updated_
+_Links to be updated_ -->
