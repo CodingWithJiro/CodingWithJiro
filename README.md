@@ -16,6 +16,10 @@
 
 - **Long-term goal:** Grow into _full-stack development_, _AI_, _systems design_, and _cloud architecture_
 
+# What I'm Doing Now
+
+Focused on sharpening my JavaScript fundamentals through **[javascript.info](https://javascript.info/)** and leveling up with **[React](https://react.dev/)**. I'm applying everything I learn by building small, real-world projects to strengthen my skills.
+
 # Explore My Work
 
 Check out my **[Projects Hub](https://github.com/CodingWithJiro/Projects)** which is a growing collection of all the websites, challenges, and mini-apps I’ve built while learning frontend web development.
