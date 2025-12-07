@@ -70,9 +70,12 @@ The following are the steps I follow in learning frontend development:
 
 ## Current Roadmap Progress
 
-I'm actively following this **[frontend developer roadmap](https://roadmap.sh/frontend)** to guide my learning. Since then I have been exposed to multiple relevant documents that helped me where I am today.
+I'm actively following this **[frontend developer roadmap](https://roadmap.sh/frontend?s=67de4dc78342031660de72cc)** to structure my learning journey. You can track my progress across its sub-roadmaps, including **[JavaScript](https://roadmap.sh/javascript?s=67de4dc78342031660de72cc)**, **[Git & GitHub](https://roadmap.sh/git-github?s=67de4dc78342031660de72cc)**, and **[React](https://roadmap.sh/react?s=67de4dc78342031660de72cc)**:
 
-[![Frontend Roadmap](https://img.shields.io/badge/progress-9%25%20complete-blueviolet?style=flat-square&color=CC0022)](https://roadmap.sh/frontend?s=67de4dc78342031660de72cc)
+[![Frontend Roadmap](https://img.shields.io/badge/frontend-9%25%20complete-blueviolet?style=flat-square&color=CC0022)](https://roadmap.sh/frontend?s=67de4dc78342031660de72cc)
+[![JavaScript Roadmap](https://img.shields.io/badge/javascript-8%25%20complete-blueviolet?style=flat-square&color=CC0022)](https://roadmap.sh/javascript?s=67de4dc78342031660de72cc)
+[![Git & GitHub Roadmap](https://img.shields.io/badge/git_&_github-0%25%20complete-blueviolet?style=flat-square&color=CC0022)](https://roadmap.sh/git-github?s=67de4dc78342031660de72cc)
+[![React Roadmap](https://img.shields.io/badge/react-0%25%20complete-blueviolet?style=flat-square&color=CC0022)](https://roadmap.sh/react?s=67de4dc78342031660de72cc)
 
 [![roadmap.sh](https://roadmap.sh/card/wide/67de4dc78342031660de72cc?variant=dark)](https://roadmap.sh/u/elmarchavez)
 
