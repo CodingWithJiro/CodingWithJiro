@@ -73,18 +73,18 @@ The following are the steps I follow in learning frontend development:
 I'm actively following this **[frontend developer roadmap](https://roadmap.sh/frontend?s=67de4dc78342031660de72cc)** to structure my learning journey. You can track my progress across its sub-roadmaps, including **[JavaScript](https://roadmap.sh/javascript?s=67de4dc78342031660de72cc)**, **[Git & GitHub](https://roadmap.sh/git-github?s=67de4dc78342031660de72cc)**, and **[React](https://roadmap.sh/react?s=67de4dc78342031660de72cc)**:
 
 [![Frontend Roadmap](https://img.shields.io/badge/frontend-9%25%20complete-blueviolet?style=flat-square&color=CC0022)](https://roadmap.sh/frontend?s=67de4dc78342031660de72cc)
-[![JavaScript Roadmap](https://img.shields.io/badge/javascript-8%25%20complete-blueviolet?style=flat-square&color=CC0022)](https://roadmap.sh/javascript?s=67de4dc78342031660de72cc)
-[![Git & GitHub Roadmap](https://img.shields.io/badge/git_&_github-0%25%20complete-blueviolet?style=flat-square&color=CC0022)](https://roadmap.sh/git-github?s=67de4dc78342031660de72cc)
-[![React Roadmap](https://img.shields.io/badge/react-0%25%20complete-blueviolet?style=flat-square&color=CC0022)](https://roadmap.sh/react?s=67de4dc78342031660de72cc)
+[![JavaScript Roadmap](https://img.shields.io/badge/javascript-11%25%20complete-blueviolet?style=flat-square&color=CC0022)](https://roadmap.sh/javascript?s=67de4dc78342031660de72cc)
+[![Git & GitHub Roadmap](https://img.shields.io/badge/git_&_github-3%25%20complete-blueviolet?style=flat-square&color=CC0022)](https://roadmap.sh/git-github?s=67de4dc78342031660de72cc)
+[![React Roadmap](https://img.shields.io/badge/react-4%25%20complete-blueviolet?style=flat-square&color=CC0022)](https://roadmap.sh/react?s=67de4dc78342031660de72cc)
 
-[![roadmap.sh](https://roadmap.sh/card/wide/67de4dc78342031660de72cc?variant=dark)](https://roadmap.sh/u/elmarchavez)
+[![roadmap.sh](https://roadmap.sh/card/wide/67de4dc78342031660de72cc?variant=dark&v=1)](https://roadmap.sh/u/elmarchavez)
 
 ## Current Frontend Mentor Points
 
 I committed to actively engaging with the **[Frontend Mentor](https://www.frontendmentor.io/profile/CodingWithJiro)** community by giving occasional feedback to other developers and creating real-world projects based on their challenges.
 
 <a href="https://www.frontendmentor.io/profile/CodingWithJiro" target="_blank">
-<img src="./img/frontend-mentor-profile.png" alt="Elmar Chavez's Frontend Mentor profile garnering 1600+ points." width="400" />
+<img src="./img/frontend-mentor-profile.png" alt="Elmar Chavez's Frontend Mentor profile" width="400" />
 </a>
 
 ## Current Codewars Rank
