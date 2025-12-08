@@ -77,7 +77,7 @@ I'm actively following this **[frontend developer roadmap](https://roadmap.sh/fr
 [![Git & GitHub Roadmap](https://img.shields.io/badge/git_&_github-0%25%20complete-blueviolet?style=flat-square&color=CC0022)](https://roadmap.sh/git-github?s=67de4dc78342031660de72cc)
 [![React Roadmap](https://img.shields.io/badge/react-0%25%20complete-blueviolet?style=flat-square&color=CC0022)](https://roadmap.sh/react?s=67de4dc78342031660de72cc)
 
-[![roadmap.sh](https://roadmap.sh/card/wide/67de4dc78342031660de72cc?variant=dark)](https://roadmap.sh/u/elmarchavez)
+[![roadmap.sh](https://roadmap.sh/card/wide/67de4dc78342031660de72cc?variant=dark&v=1)](https://roadmap.sh/u/elmarchavez)
 
 ## Current Frontend Mentor Points
 
