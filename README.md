@@ -74,8 +74,8 @@ I'm actively following this **[frontend developer roadmap](https://roadmap.sh/fr
 
 [![Frontend Roadmap](https://img.shields.io/badge/frontend-9%25%20complete-blueviolet?style=flat-square&color=CC0022)](https://roadmap.sh/frontend?s=67de4dc78342031660de72cc)
 [![JavaScript Roadmap](https://img.shields.io/badge/javascript-25%25%20complete-blueviolet?style=flat-square&color=CC0022)](https://roadmap.sh/javascript?s=67de4dc78342031660de72cc)
-[![Git & GitHub Roadmap](https://img.shields.io/badge/git_&_github-10%25%20complete-blueviolet?style=flat-square&color=CC0022)](https://roadmap.sh/git-github?s=67de4dc78342031660de72cc)
-[![React Roadmap](https://img.shields.io/badge/react-10%25%20complete-blueviolet?style=flat-square&color=CC0022)](https://roadmap.sh/react?s=67de4dc78342031660de72cc)
+[![Git & GitHub Roadmap](https://img.shields.io/badge/git_&_github-13%25%20complete-blueviolet?style=flat-square&color=CC0022)](https://roadmap.sh/git-github?s=67de4dc78342031660de72cc)
+[![React Roadmap](https://img.shields.io/badge/react-11%25%20complete-blueviolet?style=flat-square&color=CC0022)](https://roadmap.sh/react?s=67de4dc78342031660de72cc)
 
 [![roadmap.sh](https://roadmap.sh/card/wide/67de4dc78342031660de72cc?variant=dark&v=1)](https://roadmap.sh/u/elmarchavez)
 
