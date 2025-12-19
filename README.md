@@ -22,7 +22,7 @@ Currently, I'm focused on sharpening my JavaScript fundamentals through **[javas
 
 # Explore My Work
 
-Check out my **[Projects Hub](https://github.com/CodingWithJiro/Projects)** which is a growing collection of all the websites, challenges, and mini-apps I’ve built while learning frontend web development.
+Check out my **[Projects Hub](https://github.com/CodingWithJiro/Projects)** which is a growing collection of all the websites, challenges, and mini-apps I’ve built while learning frontend development.
 
 Here are some of my latest projects (🌐 Live Demo · 💻 Source Code):
 
