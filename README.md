@@ -18,7 +18,7 @@
 
 # What I'm Doing Now
 
-Focused on sharpening my JavaScript fundamentals through **[javascript.info](https://javascript.info/)** and leveling up with **[React](https://react.dev/)**. I'm applying everything I learn by building small, real-world projects to strengthen my skills.
+Currently, I'm focused on sharpening my JavaScript fundamentals through **[javascript.info](https://javascript.info/)** and leveling up with **[React](https://react.dev/)**. I'm also doing a **[collab project](https://github.com/JuliAlchemDev/FM-url-shortening-api)** with **@JuliAlchemDev** while building my personal projects on the side.
 
 # Explore My Work
 
