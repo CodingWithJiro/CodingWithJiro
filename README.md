@@ -18,11 +18,11 @@
 
 # What I'm Doing Now
 
-Focused on sharpening my JavaScript fundamentals through **[javascript.info](https://javascript.info/)** and leveling up with **[React](https://react.dev/)**. I'm applying everything I learn by building small, real-world projects to strengthen my skills.
+Currently, I'm focused on sharpening my JavaScript fundamentals through **[javascript.info](https://javascript.info/)** and leveling up with **[React](https://react.dev/)**. I'm also doing a **[collab project](https://github.com/JuliAlchemDev/FM-url-shortening-api)** with **@JuliAlchemDev** while building my personal projects on the side.
 
 # Explore My Work
 
-Check out my **[Projects Hub](https://github.com/CodingWithJiro/Projects)** which is a growing collection of all the websites, challenges, and mini-apps I’ve built while learning frontend web development.
+Check out my **[Projects Hub](https://github.com/CodingWithJiro/Projects)** which is a growing collection of all the websites, challenges, and mini-apps I’ve built while learning frontend development.
 
 Here are some of my latest projects (🌐 Live Demo · 💻 Source Code):
 
@@ -72,12 +72,7 @@ The following are the steps I follow in learning frontend development:
 
 I'm actively following this **[frontend developer roadmap](https://roadmap.sh/frontend?s=67de4dc78342031660de72cc)** to structure my learning journey. You can track my progress across its sub-roadmaps, including **[JavaScript](https://roadmap.sh/javascript?s=67de4dc78342031660de72cc)**, **[Git & GitHub](https://roadmap.sh/git-github?s=67de4dc78342031660de72cc)**, and **[React](https://roadmap.sh/react?s=67de4dc78342031660de72cc)**:
 
-[![Frontend Roadmap](https://img.shields.io/badge/frontend-9%25%20complete-blueviolet?style=flat-square&color=CC0022)](https://roadmap.sh/frontend?s=67de4dc78342031660de72cc)
-[![JavaScript Roadmap](https://img.shields.io/badge/javascript-25%25%20complete-blueviolet?style=flat-square&color=CC0022)](https://roadmap.sh/javascript?s=67de4dc78342031660de72cc)
-[![Git & GitHub Roadmap](https://img.shields.io/badge/git_&_github-13%25%20complete-blueviolet?style=flat-square&color=CC0022)](https://roadmap.sh/git-github?s=67de4dc78342031660de72cc)
-[![React Roadmap](https://img.shields.io/badge/react-11%25%20complete-blueviolet?style=flat-square&color=CC0022)](https://roadmap.sh/react?s=67de4dc78342031660de72cc)
-
-[![roadmap.sh](https://roadmap.sh/card/wide/67de4dc78342031660de72cc?variant=dark&v=1)](https://roadmap.sh/u/elmarchavez)
+[![roadmap.sh](https://roadmap.sh/card/tall/67de4dc78342031660de72cc?variant=dark)](https://roadmap.sh/u/elmarchavez)
 
 ## Current Frontend Mentor Points
 
