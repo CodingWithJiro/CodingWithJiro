@@ -73,7 +73,7 @@ The following are the steps I follow in learning frontend development:
 
 I'm actively following this **[frontend developer roadmap](https://roadmap.sh/frontend?s=67de4dc78342031660de72cc)** to structure my learning journey. You can track my progress across its sub-roadmaps, including **[JavaScript](https://roadmap.sh/javascript?s=67de4dc78342031660de72cc)**, **[Git & GitHub](https://roadmap.sh/git-github?s=67de4dc78342031660de72cc)**, and **[React](https://roadmap.sh/react?s=67de4dc78342031660de72cc)**:
 
-[![roadmap.sh](https://roadmap.sh/card/tall/67de4dc78342031660de72cc?variant=dark&v=1)](https://roadmap.sh/u/elmarchavez)
+[![roadmap.sh](https://roadmap.sh/card/tall/67de4dc78342031660de72cc?variant=dark&v=2)](https://roadmap.sh/u/elmarchavez)
 
 ## Current Frontend Mentor Points
 
