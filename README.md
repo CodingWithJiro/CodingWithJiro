@@ -44,6 +44,7 @@ Here are some of my latest projects (🌐 Live Demo · 💻 Source Code):
 ## Libraries and Framewoks
 
 [<img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />](https://react.dev/)
+[<img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />](https://tailwindcss.com/)
 
 ## Tools and Platforms
 
