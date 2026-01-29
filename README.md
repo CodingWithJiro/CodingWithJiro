@@ -10,7 +10,7 @@
 
 - Active in **Frontend Mentor** developer community, where I regularly review code and exchange feedback with other developers
 
-- Recently began contributing to **open-source projects**, expanding my collaborative and problem-solving skills
+- Recently began contributing to **open-source projects** and doing **collab projects**
 
 - **Current goal:** Actively seeking a _frontend developer role_ and open to _freelance work_
 
