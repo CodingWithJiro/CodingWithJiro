@@ -46,9 +46,14 @@ Here are some of my latest projects (🌐 Live Demo · 💻 Source Code):
 [<img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />](https://react.dev/)
 [<img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />](https://tailwindcss.com/)
 
-## Tools and Platforms
+## Tooling & Testing
 
 [<img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=FFD62E" />](https://vitejs.dev/)
+[<img alt="Vitest" src="https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />](https://vitest.dev/)
+[<img alt="React Testing Library" src="https://img.shields.io/badge/-React%20Testing%20Library-E33332?style=flat-square&logo=testing-library&logoColor=white" />](https://testing-library.com/docs/react-testing-library/intro/)
+
+## Platforms
+
 [<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />](https://git-scm.com/)
 [<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />](https://github.com/)
 [<img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />](https://www.netlify.com/)
