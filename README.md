@@ -10,7 +10,7 @@
 
 - Active in **Frontend Mentor** developer community, where I regularly review code and exchange feedback with other developers
 
-- Recently began contributing to **open-source projects**, expanding my collaborative and problem-solving skills
+- Recently began contributing to **open-source projects** and doing **collab projects**
 
 - **Current goal:** Actively seeking a _frontend developer role_ and open to _freelance work_
 
@@ -18,7 +18,7 @@
 
 # What I'm Doing Now
 
-Currently, I'm focused on sharpening my JavaScript fundamentals through **[javascript.info](https://javascript.info/)** and leveling up with **[React](https://react.dev/)**. I'm also doing a **[collab project](https://github.com/JuliAlchemDev/FM-url-shortening-api)** with **@JuliAlchemDev** while building my personal projects on the side.
+Currently, I'm building **[React](https://react.dev/)** + **[Tailwind CSS](https://tailwindcss.com/)** projects, learning JavaScript fundamentals in **[javascript.info](https://javascript.info/)**, and doing a **[collab project](https://github.com/JuliAlchemDev/FM-url-shortening-api)** with **[@JuliAlchemDev](https://github.com/JuliAlchemDev)**.
 
 # Explore My Work
 
@@ -29,8 +29,8 @@ Here are some of my latest projects (🌐 Live Demo · 💻 Source Code):
 |            [<img src="https://raw.githubusercontent.com/CodingWithJiro/wesbos-js-30-clock/main/assets/img/site-preview-desktop_1440x960.png" alt="Project preview." width="400">](https://ticktock-jiro.netlify.app/)             |       [<img src="https://raw.githubusercontent.com/CodingWithJiro/w3schools-js-tutorial-clone-site/main/img/site-preview-desktop-dark_1440x960.png" alt="Project preview." width="400">](https://javascript-fundamentals-jiro.netlify.app/)        |        [<img src="https://raw.githubusercontent.com/CodingWithJiro/wesbos-js-30-drumkit/main/assets/img/site-preview-desktop-dark_1440x960.png" alt="Project preview." width="400">](https://keyboard-warrior-jiro.netlify.app/)        |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                     **TickTock** [🌐](https://ticktock-jiro.netlify.app/) · [💻](https://github.com/CodingWithJiro/wesbos-js-30-clock) <br/> _See your current date and time or search for another location!_                     | **JavaScript Fundamentals** [🌐](https://javascript-fundamentals-jiro.netlify.app/) · [💻](https://github.com/CodingWithJiro/w3schools-js-tutorial-clone-site) <br/> _A technical and interactive documentation W3Schools JS Tutorial clone site!_ |             **Keyboard Warrior** [🌐](https://keyboard-warrior-jiro.netlify.app/) · [💻](https://github.com/CodingWithJiro/wesbos-js-30-drumkit) <br/> _A fun drum beats app inspired from Wes Bos' #JavaScript30 course!_              |
-| [<img src="https://raw.githubusercontent.com/CodingWithJiro/freecodecamp-js-no-one-asked/main/assets/img/site-preview-desktop-dark_1440x960.png" alt="Project preview." width="400">](https://no-one-asked-fcc-jiro.netlify.app/) |      [<img src="https://raw.githubusercontent.com/CodingWithJiro/freecodecamp-js-fortune-teller/main/assets/img/site-preview-desktop-dark_1440x960.png" alt="Project preview." width="400">](https://veil-and-visions-fcc-jiro.netlify.app/)       | [<img src="https://raw.githubusercontent.com/CodingWithJiro/frontend-mentor-newsletter-sign-up-form/main/assets/img/site-preview-desktop_1440x960.png" alt="Project preview." width="400">](https://newsletter-form-jiro.netlify.app/s) |
-|                  **No One Asked** [🌐](https://no-one-asked-fcc-jiro.netlify.app/) · [💻](https://github.com/CodingWithJiro/freecodecamp-js-no-one-asked) <br/> _Get a random advice, copy it or share it in X!_                  |               **Veil and Visions** [🌐](https://veil-and-visions-fcc-jiro.netlify.app/) · [💻](https://github.com/CodingWithJiro/freecodecamp-js-fortune-teller) <br/> _Draw three cards to reveal your past, present, and future!_                |          **Newsletter Sign-Up Form** [🌐](https://newsletter-form-jiro.netlify.app/) · [💻](https://github.com/CodingWithJiro/frontend-mentor-newsletter-sign-up-form) <br/> _Sign-up your email, subscribe to a newsletter!_           |
+| [<img src="https://raw.githubusercontent.com/CodingWithJiro/freecodecamp-js-no-one-asked/main/assets/img/site-preview-desktop-dark_1440x960.png" alt="Project preview." width="400">](https://no-one-asked-fcc-jiro.netlify.app/) |      [<img src="https://raw.githubusercontent.com/CodingWithJiro/freecodecamp-js-fortune-teller/main/assets/img/site-preview-desktop-dark_1440x960.png" alt="Project preview." width="400">](https://veil-and-visions-fcc-jiro.netlify.app/)       | [<img src="https://raw.githubusercontent.com/CodingWithJiro/frontend-mentor-base-apparel-coming-soon/main/public/img/site-preview-desktop_1440x800.png" alt="Project preview." width="400">](https://base-apparel-fm-jiro.netlify.app/) |
+|                  **No One Asked** [🌐](https://no-one-asked-fcc-jiro.netlify.app/) · [💻](https://github.com/CodingWithJiro/freecodecamp-js-no-one-asked) <br/> _Get a random advice, copy it or share it in X!_                  |               **Veil and Visions** [🌐](https://veil-and-visions-fcc-jiro.netlify.app/) · [💻](https://github.com/CodingWithJiro/freecodecamp-js-fortune-teller) <br/> _Draw three cards to reveal your past, present, and future!_                |               **Base Apparel** [🌐](https://base-apparel-fm-jiro.netlify.app/) · [💻](https://github.com/CodingWithJiro/frontend-mentor-base-apparel-coming-soon) <br/> _Sign-up your email, subscribe to Base Apparel!_                |
 
 # Tech Stack
 
@@ -46,9 +46,14 @@ Here are some of my latest projects (🌐 Live Demo · 💻 Source Code):
 [<img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />](https://react.dev/)
 [<img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />](https://tailwindcss.com/)
 
-## Tools and Platforms
+## Tooling & Testing
 
 [<img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=FFD62E" />](https://vitejs.dev/)
+[<img alt="Vitest" src="https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />](https://vitest.dev/)
+[<img alt="React Testing Library" src="https://img.shields.io/badge/-React%20Testing%20Library-E33332?style=flat-square&logo=testing-library&logoColor=white" />](https://testing-library.com/docs/react-testing-library/intro/)
+
+## Platforms
+
 [<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />](https://git-scm.com/)
 [<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />](https://github.com/)
 [<img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />](https://www.netlify.com/)
