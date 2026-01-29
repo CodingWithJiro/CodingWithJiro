@@ -18,7 +18,7 @@
 
 # What I'm Doing Now
 
-Currently, I'm focused on sharpening my JavaScript fundamentals through **[javascript.info](https://javascript.info/)** and leveling up with **[React](https://react.dev/)**. I'm also doing a **[collab project](https://github.com/JuliAlchemDev/FM-url-shortening-api)** with **@JuliAlchemDev** while building my personal projects on the side.
+Currently, I'm building **[React](https://react.dev/)** + **[Tailwind CSS](https://tailwindcss.com/)** projects, learning JavaScript fundamentals in **[javascript.info](https://javascript.info/)**, and doing a **[collab project](https://github.com/JuliAlchemDev/FM-url-shortening-api)** with **[@JuliAlchemDev](https://github.com/JuliAlchemDev)**.
 
 # Explore My Work
 
