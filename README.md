@@ -99,7 +99,7 @@ I solve code challenges daily in **[Codewars](https://www.codewars.com/users/Cod
 
 ## Current Reading Statistics
 
-Finally, I follow the latest tech trends and web development in **[daily.dev](https://daily.dev/)**. I read an article or two that interests me whenever I need a breather from actual coding.
+Finally, I follow the latest tech trends and web development in **[daily.dev](https://daily.dev/)** where I read at least one article daily.
 
 <a href="https://app.daily.dev/elmarchavez" target="_blank">
 <img src="./devcard.png" width="356" alt="Elmar Chavez's Dev Card"/>
