@@ -55,39 +55,9 @@ Here are some of my latest projects (🌐 Live Demo · 💻 Source Code):
 
 ![Elmar's Top Languages](https://github-readme-stats-codingwithjiro.vercel.app/api/top-langs/?username=CodingWithJiro&layout=compact&langs_count=6&title_color=FF0033&text_color=FFFFFF&bg_color=0D0D0D)
 
-# Learning Progress
+# Continuous Learning
 
-The following are the steps I follow in learning frontend development:
-
-## Current Roadmap Progress
-
-I'm actively following this **[frontend developer roadmap](https://roadmap.sh/frontend?s=67de4dc78342031660de72cc)** to structure my learning journey. You can track my progress across its sub-roadmaps, including **[JavaScript](https://roadmap.sh/javascript?s=67de4dc78342031660de72cc)**, **[Git & GitHub](https://roadmap.sh/git-github?s=67de4dc78342031660de72cc)**, and **[React](https://roadmap.sh/react?s=67de4dc78342031660de72cc)**:
-
-[![roadmap.sh](https://roadmap.sh/card/tall/67de4dc78342031660de72cc?variant=dark&v=3)](https://roadmap.sh/u/elmarchavez)
-
-## Current Frontend Mentor Points
-
-I committed to actively engaging with the **[Frontend Mentor](https://www.frontendmentor.io/profile/CodingWithJiro)** community by giving occasional feedback to other developers and creating real-world projects based on their challenges.
-
-<a href="https://www.frontendmentor.io/profile/CodingWithJiro" target="_blank">
-<img src="./img/frontend-mentor-profile.png" alt="Elmar Chavez's Frontend Mentor profile" width="400" />
-</a>
-
-## Current Codewars Rank
-
-I solve code challenges daily in **[Codewars](https://www.codewars.com/users/CodingWithJiro)** and **[freeCodeCamp](https://www.freecodecamp.org/learn/daily-coding-challenge/archive)** to further level up and polish my programming skills. Currently I am in the **top 1%** in CodeWars.
-
-<a href="https://www.codewars.com/users/CodingWithJiro" target="_blank">
-<img src="https://www.codewars.com/users/CodingWithJiro/badges/large" alt="Elmar Chavez's Codewars rank and points" />
-</a>
-
-## Current Reading Statistics
-
-Finally, I follow the latest tech trends and web development in **[daily.dev](https://daily.dev/)** where I read at least one article daily.
-
-<a href="https://app.daily.dev/elmarchavez" target="_blank">
-<img src="./devcard.png" width="356" alt="Elmar Chavez's Dev Card"/>
-</a>
+I master my craft by following a **[frontend roadmap](https://roadmap.sh/frontend?s=67de4dc78342031660de72cc)**, actively building and reviewing in the **[Frontend Mentor](https://www.frontendmentor.io/profile/CodingWithJiro)** community, ranking in the top 1% on **[Codewars](https://www.codewars.com/users/CodingWithJiro)**, and staying current with web development trends through **[daily.dev](https://app.daily.dev/elmarchavez)**.
 
 # Connect with Me
 
