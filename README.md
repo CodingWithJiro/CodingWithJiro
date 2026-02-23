@@ -10,7 +10,7 @@ I build **[my projects](https://github.com/CodingWithJiro/Projects)** in public,
 
 # What I'm Doing Now
 
-Currently, I'm building a **[browser extension manager UI](https://github.com/CodingWithJiro/frontend-mentor-browser-extension-manager)** using **React + Tailwind CSS**, learning JavaScript fundamentals in **[javascript.info](https://javascript.info/)**, and doing a **[collab project](https://github.com/JuliAlchemDev/FM-url-shortening-api)** with **[@JuliAlchemDev](https://github.com/JuliAlchemDev)**.
+Currently, I'm building a **[browser extension manager UI](https://github.com/CodingWithJiro/frontend-mentor-browser-extension-manager)** using **React + Tailwind CSS**, mastering React fundamentals in **[react.dev](https://react.dev/)**, and doing a **[collab project](https://github.com/JuliAlchemDev/FM-url-shortening-api)** with **[@JuliAlchemDev](https://github.com/JuliAlchemDev)**.
 
 # Explore My Work
 
