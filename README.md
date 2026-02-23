@@ -4,21 +4,13 @@
 
 # About Me
 
-- **Licensed civil engineer** turned **frontend developer** focused on building accessible, responsive, and user-centered web apps
+**Licensed civil engineer** turned **frontend developer** building accessible, responsive web applications.
 
-- I document and share **[every project](https://github.com/CodingWithJiro/Projects)** I build ranging from real-world web apps to interactive educational sites
-
-- Active in **Frontend Mentor** developer community, where I regularly review code and exchange feedback with other developers
-
-- Recently began contributing to **open-source projects** and doing **collab projects**
-
-- **Current goal:** Actively seeking a _frontend developer role_ and open to _freelance work_
-
-- **Long-term goal:** Grow into _full-stack development_, _AI_, _systems design_, and _cloud architecture_
+I build **[my projects](https://github.com/CodingWithJiro/Projects)** in public, review code in **[Frontend Mentor](https://www.frontendmentor.io/profile/CodingWithJiro)**, and participate in collaborative projects and open source.
 
 # What I'm Doing Now
 
-Currently, I'm building a **[browser extension manager UI](https://github.com/CodingWithJiro/frontend-mentor-browser-extension-manager)** using **React + Tailwind CSS**, learning JavaScript fundamentals in **[javascript.info](https://javascript.info/)**, and doing a **[collab project](https://github.com/JuliAlchemDev/FM-url-shortening-api)** with **[@JuliAlchemDev](https://github.com/JuliAlchemDev)**.
+Currently, I'm building a **[browser extension manager UI](https://github.com/CodingWithJiro/frontend-mentor-browser-extension-manager)** using **React + Tailwind CSS**, mastering React fundamentals in **[react.dev](https://react.dev/)**, and doing a **[collab project](https://github.com/JuliAlchemDev/FM-url-shortening-api)** with **[@JuliAlchemDev](https://github.com/JuliAlchemDev)**.
 
 # Explore My Work
 
@@ -34,29 +26,22 @@ Here are some of my latest projects (🌐 Live Demo · 💻 Source Code):
 
 # Tech Stack
 
-## Core Technologies
+**Libraries & Frameworks:** [<img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />](https://react.dev/)
+[<img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />](https://tailwindcss.com/)
 
-[<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
+**Core Technologies:** [<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />](https://www.markdownguide.org/)
 
-## Libraries and Frameworks
-
-[<img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />](https://react.dev/)
-[<img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />](https://tailwindcss.com/)
-
-## Tooling & Testing
-
-[<img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=FFD62E" />](https://vitejs.dev/)
+**Tooling & Testing:** [<img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=FFD62E" />](https://vitejs.dev/)
 [<img alt="Vitest" src="https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />](https://vitest.dev/)
 [<img alt="React Testing Library" src="https://img.shields.io/badge/-React%20Testing%20Library-E33332?style=flat-square&logo=testing-library&logoColor=white" />](https://testing-library.com/docs/react-testing-library/intro/)
 
-## Platforms
-
-[<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />](https://git-scm.com/)
+**Platforms & Deployment:** [<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />](https://git-scm.com/)
 [<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />](https://github.com/)
 [<img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />](https://www.netlify.com/)
+[<img alt="Vercel" src="https://img.shields.io/badge/-Vercel-111111?style=flat-square&logo=vercel&logoColor=white" />](https://vercel.com/)
 [<img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />](https://code.visualstudio.com/)
 [<img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />](https://www.figma.com/)
 
@@ -71,39 +56,9 @@ Here are some of my latest projects (🌐 Live Demo · 💻 Source Code):
 
 ![Elmar's Top Languages](https://github-readme-stats-codingwithjiro.vercel.app/api/top-langs/?username=CodingWithJiro&layout=compact&langs_count=6&title_color=FF0033&text_color=FFFFFF&bg_color=0D0D0D)
 
-# Learning Progress
+# Continuous Learning
 
-The following are the steps I follow in learning frontend development:
-
-## Current Roadmap Progress
-
-I'm actively following this **[frontend developer roadmap](https://roadmap.sh/frontend?s=67de4dc78342031660de72cc)** to structure my learning journey. You can track my progress across its sub-roadmaps, including **[JavaScript](https://roadmap.sh/javascript?s=67de4dc78342031660de72cc)**, **[Git & GitHub](https://roadmap.sh/git-github?s=67de4dc78342031660de72cc)**, and **[React](https://roadmap.sh/react?s=67de4dc78342031660de72cc)**:
-
-[![roadmap.sh](https://roadmap.sh/card/tall/67de4dc78342031660de72cc?variant=dark&v=3)](https://roadmap.sh/u/elmarchavez)
-
-## Current Frontend Mentor Points
-
-I committed to actively engaging with the **[Frontend Mentor](https://www.frontendmentor.io/profile/CodingWithJiro)** community by giving occasional feedback to other developers and creating real-world projects based on their challenges.
-
-<a href="https://www.frontendmentor.io/profile/CodingWithJiro" target="_blank">
-<img src="./img/frontend-mentor-profile.png" alt="Elmar Chavez's Frontend Mentor profile" width="400" />
-</a>
-
-## Current Codewars Rank
-
-I solve code challenges daily in **[Codewars](https://www.codewars.com/users/CodingWithJiro)** and **[freeCodeCamp](https://www.freecodecamp.org/learn/daily-coding-challenge/archive)** to further level up and polish my programming skills. Currently I am in the **top 1%** in CodeWars.
-
-<a href="https://www.codewars.com/users/CodingWithJiro" target="_blank">
-<img src="https://www.codewars.com/users/CodingWithJiro/badges/large" alt="Elmar Chavez's Codewars rank and points" />
-</a>
-
-## Current Reading Statistics
-
-Finally, I follow the latest tech trends and web development in **[daily.dev](https://daily.dev/)** where I read at least one article daily.
-
-<a href="https://app.daily.dev/elmarchavez" target="_blank">
-<img src="./devcard.png" width="356" alt="Elmar Chavez's Dev Card"/>
-</a>
+I master my craft by following a **[frontend roadmap](https://roadmap.sh/frontend?s=67de4dc78342031660de72cc)**, actively building and reviewing in the **[Frontend Mentor](https://www.frontendmentor.io/profile/CodingWithJiro)** community, ranking in the top 1% on **[Codewars](https://www.codewars.com/users/CodingWithJiro)**, and staying current with web development trends through **[daily.dev](https://app.daily.dev/elmarchavez)**.
 
 # Connect with Me
 
