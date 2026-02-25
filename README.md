@@ -8,7 +8,7 @@
 
 # What I'm Doing Now
 
-Currently, I'm building a **[browser extension manager UI](https://github.com/CodingWithJiro/frontend-mentor-browser-extension-manager)** using **React + Tailwind CSS**, mastering React fundamentals in **[react.dev](https://react.dev/)**, and doing a **[collab project](https://github.com/JuliAlchemDev/FM-url-shortening-api)** with **[@JuliAlchemDev](https://github.com/JuliAlchemDev)**.
+Currently, I'm building **[Where In The World w/ REST Countries API](https://github.com/CodingWithJiro/frontend-mentor-where-in-the-world)** using **React + Tailwind CSS + TypeScript**, mastering React fundamentals in **[react.dev](https://react.dev/)**, and actively reviewing projects in **[Frontend Mentor](https://www.frontendmentor.io/profile/CodingWithJiro)**.
 
 # Explore My Work
 
