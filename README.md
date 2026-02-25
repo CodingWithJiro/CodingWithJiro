@@ -51,9 +51,8 @@ Here are some of my latest projects (🌐 Live Demo · 💻 Source Code):
   <img src="https://img.shields.io/github/followers/CodingWithJiro?label=Followers&style=flat-square&color=CC0022" alt="GitHub Followers"/>
 </p>
 
-![Elmar's GitHub Stats](https://github-readme-stats-codingwithjiro.vercel.app/api?username=CodingWithJiro&show_icons=true&show_prs=true&title_color=FF0033&text_color=ffffff&icon_color=00E0FF&bg_color=0D0D0D)
-
-![Elmar's Top Languages](https://github-readme-stats-codingwithjiro.vercel.app/api/top-langs/?username=CodingWithJiro&layout=compact&langs_count=6&title_color=FF0033&text_color=FFFFFF&bg_color=0D0D0D)
+<img src="https://github-readme-stats-codingwithjiro.vercel.app/api?username=CodingWithJiro&show_icons=true&show_prs=true&title_color=FF0033&text_color=ffffff&icon_color=00E0FF&bg_color=0D0D0D" alt="Elmar's GitHub stats." />
+<img src="https://github-readme-stats-codingwithjiro.vercel.app/api/top-langs/?username=CodingWithJiro&layout=compact&langs_count=6&title_color=FF0033&text_color=FFFFFF&bg_color=0D0D0D" alt="Elmar's top used languages." />
 
 # Continuous Learning
 
