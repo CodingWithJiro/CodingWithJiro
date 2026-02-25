@@ -4,25 +4,23 @@
 
 # About Me
 
-**Licensed civil engineer** turned **frontend developer** building accessible, responsive web applications.
-
-I build **[my projects](https://github.com/CodingWithJiro/Projects)** in public, review code in **[Frontend Mentor](https://www.frontendmentor.io/profile/CodingWithJiro)**, and participate in collaborative projects and open source.
+**Licensed civil engineer** turned **frontend developer** building accessible, responsive web applications. I build **[my projects](https://github.com/CodingWithJiro/Projects)** in public, review code in **[Frontend Mentor](https://www.frontendmentor.io/profile/CodingWithJiro)**, and participate in collaborative projects and open source.
 
 # What I'm Doing Now
 
-Currently, I'm building a **[browser extension manager UI](https://github.com/CodingWithJiro/frontend-mentor-browser-extension-manager)** using **React + Tailwind CSS**, mastering React fundamentals in **[react.dev](https://react.dev/)**, and doing a **[collab project](https://github.com/JuliAlchemDev/FM-url-shortening-api)** with **[@JuliAlchemDev](https://github.com/JuliAlchemDev)**.
+Currently, I'm building **[Where In The World w/ REST Countries API](https://github.com/CodingWithJiro/frontend-mentor-where-in-the-world)** using **React + Tailwind CSS + TypeScript**, mastering React fundamentals in **[react.dev](https://react.dev/)**, and actively reviewing projects in **[Frontend Mentor](https://www.frontendmentor.io/profile/CodingWithJiro)**.
 
 # Explore My Work
 
-Check out my **[Projects Hub](https://github.com/CodingWithJiro/Projects)** which is a growing collection of all the websites, challenges, and mini-apps I’ve built while learning frontend development.
+Check out my **[Projects Hub](https://github.com/CodingWithJiro/Projects)** which is a growing collection of all the web applications I’ve built as a frontend developer.
 
 Here are some of my latest projects (🌐 Live Demo · 💻 Source Code):
 
-|            [<img src="https://raw.githubusercontent.com/CodingWithJiro/wesbos-js-30-clock/main/assets/img/site-preview-desktop_1440x960.png" alt="Project preview." width="400">](https://ticktock-jiro.netlify.app/)             |       [<img src="https://raw.githubusercontent.com/CodingWithJiro/w3schools-js-tutorial-clone-site/main/img/site-preview-desktop-dark_1440x960.png" alt="Project preview." width="400">](https://javascript-fundamentals-jiro.netlify.app/)        |        [<img src="https://raw.githubusercontent.com/CodingWithJiro/wesbos-js-30-drumkit/main/assets/img/site-preview-desktop-dark_1440x960.png" alt="Project preview." width="400">](https://keyboard-warrior-jiro.netlify.app/)        |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                     **TickTock** [🌐](https://ticktock-jiro.netlify.app/) · [💻](https://github.com/CodingWithJiro/wesbos-js-30-clock) <br/> _See your current date and time or search for another location!_                     | **JavaScript Fundamentals** [🌐](https://javascript-fundamentals-jiro.netlify.app/) · [💻](https://github.com/CodingWithJiro/w3schools-js-tutorial-clone-site) <br/> _A technical and interactive documentation W3Schools JS Tutorial clone site!_ |             **Keyboard Warrior** [🌐](https://keyboard-warrior-jiro.netlify.app/) · [💻](https://github.com/CodingWithJiro/wesbos-js-30-drumkit) <br/> _A fun drum beats app inspired from Wes Bos' #JavaScript30 course!_              |
-| [<img src="https://raw.githubusercontent.com/CodingWithJiro/freecodecamp-js-no-one-asked/main/assets/img/site-preview-desktop-dark_1440x960.png" alt="Project preview." width="400">](https://no-one-asked-fcc-jiro.netlify.app/) |      [<img src="https://raw.githubusercontent.com/CodingWithJiro/freecodecamp-js-fortune-teller/main/assets/img/site-preview-desktop-dark_1440x960.png" alt="Project preview." width="400">](https://veil-and-visions-fcc-jiro.netlify.app/)       | [<img src="https://raw.githubusercontent.com/CodingWithJiro/frontend-mentor-base-apparel-coming-soon/main/public/img/site-preview-desktop_1440x800.png" alt="Project preview." width="400">](https://base-apparel-fm-jiro.netlify.app/) |
-|                  **No One Asked** [🌐](https://no-one-asked-fcc-jiro.netlify.app/) · [💻](https://github.com/CodingWithJiro/freecodecamp-js-no-one-asked) <br/> _Get a random advice, copy it or share it in X!_                  |               **Veil and Visions** [🌐](https://veil-and-visions-fcc-jiro.netlify.app/) · [💻](https://github.com/CodingWithJiro/freecodecamp-js-fortune-teller) <br/> _Draw three cards to reveal your past, present, and future!_                |               **Base Apparel** [🌐](https://base-apparel-fm-jiro.netlify.app/) · [💻](https://github.com/CodingWithJiro/frontend-mentor-base-apparel-coming-soon) <br/> _Sign-up your email, subscribe to Base Apparel!_                |
+|            [<img src="https://raw.githubusercontent.com/CodingWithJiro/wesbos-js-30-clock/main/assets/img/site-preview-desktop_1440x960.png" alt="Project preview." width="400">](https://ticktock-jiro.netlify.app/)             |       [<img src="https://raw.githubusercontent.com/CodingWithJiro/w3schools-js-tutorial-clone-site/main/img/site-preview-desktop-dark_1440x960.png" alt="Project preview." width="400">](https://javascript-fundamentals-jiro.netlify.app/)        | [<img src="https://raw.githubusercontent.com/CodingWithJiro/frontend-mentor-browser-extension-manager/main/public/img/site-preview-desktop-dark_1440x960.png" alt="Project preview." width="400">](https://browser-extension-fm-jiro.netlify.app/) |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                     **TickTock** [🌐](https://ticktock-jiro.netlify.app/) · [💻](https://github.com/CodingWithJiro/wesbos-js-30-clock) <br/> _See your current date and time or search for another location!_                     | **JavaScript Fundamentals** [🌐](https://javascript-fundamentals-jiro.netlify.app/) · [💻](https://github.com/CodingWithJiro/w3schools-js-tutorial-clone-site) <br/> _A technical and interactive documentation W3Schools JS Tutorial clone site!_ |       **Extensions Manager** [🌐](https://browser-extension-fm-jiro.netlify.app/) · [💻](https://github.com/CodingWithJiro/frontend-mentor-browser-extension-manager) <br/> _Filter, remove, and restore your favorite browser extensions!_        |
+| [<img src="https://raw.githubusercontent.com/CodingWithJiro/freecodecamp-js-no-one-asked/main/assets/img/site-preview-desktop-dark_1440x960.png" alt="Project preview." width="400">](https://no-one-asked-fcc-jiro.netlify.app/) |      [<img src="https://raw.githubusercontent.com/CodingWithJiro/freecodecamp-js-fortune-teller/main/assets/img/site-preview-desktop-dark_1440x960.png" alt="Project preview." width="400">](https://veil-and-visions-fcc-jiro.netlify.app/)       |      [<img src="https://raw.githubusercontent.com/CodingWithJiro/frontend-mentor-base-apparel-coming-soon/main/public/img/site-preview-desktop_1440x800.png" alt="Project preview." width="400">](https://base-apparel-fm-jiro.netlify.app/)       |
+|                  **No One Asked** [🌐](https://no-one-asked-fcc-jiro.netlify.app/) · [💻](https://github.com/CodingWithJiro/freecodecamp-js-no-one-asked) <br/> _Get a random advice, copy it or share it in X!_                  |               **Veil and Visions** [🌐](https://veil-and-visions-fcc-jiro.netlify.app/) · [💻](https://github.com/CodingWithJiro/freecodecamp-js-fortune-teller) <br/> _Draw three cards to reveal your past, present, and future!_                |                     **Base Apparel** [🌐](https://base-apparel-fm-jiro.netlify.app/) · [💻](https://github.com/CodingWithJiro/frontend-mentor-base-apparel-coming-soon) <br/> _Sign-up your email, subscribe to Base Apparel!_                     |
 
 # Tech Stack
 
@@ -32,6 +30,7 @@ Here are some of my latest projects (🌐 Live Demo · 💻 Source Code):
 **Core Technologies:** [<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />](https://www.typescriptlang.org/)
 [<img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />](https://www.markdownguide.org/)
 
 **Tooling & Testing:** [<img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=FFD62E" />](https://vitejs.dev/)
@@ -52,13 +51,12 @@ Here are some of my latest projects (🌐 Live Demo · 💻 Source Code):
   <img src="https://img.shields.io/github/followers/CodingWithJiro?label=Followers&style=flat-square&color=CC0022" alt="GitHub Followers"/>
 </p>
 
-![Elmar's GitHub Stats](https://github-readme-stats-codingwithjiro.vercel.app/api?username=CodingWithJiro&show_icons=true&show_prs=true&title_color=FF0033&text_color=ffffff&icon_color=00E0FF&bg_color=0D0D0D)
-
-![Elmar's Top Languages](https://github-readme-stats-codingwithjiro.vercel.app/api/top-langs/?username=CodingWithJiro&layout=compact&langs_count=6&title_color=FF0033&text_color=FFFFFF&bg_color=0D0D0D)
+<img src="https://github-readme-stats-codingwithjiro.vercel.app/api?username=CodingWithJiro&show_icons=true&show_prs=true&title_color=FF0033&text_color=ffffff&icon_color=00E0FF&bg_color=0D0D0D" alt="Elmar's GitHub stats." />
+<img src="https://github-readme-stats-codingwithjiro.vercel.app/api/top-langs/?username=CodingWithJiro&layout=compact&langs_count=6&title_color=FF0033&text_color=FFFFFF&bg_color=0D0D0D" alt="Elmar's top used languages." />
 
 # Continuous Learning
 
-I master my craft by following a **[frontend roadmap](https://roadmap.sh/frontend?s=67de4dc78342031660de72cc)**, actively building and reviewing in the **[Frontend Mentor](https://www.frontendmentor.io/profile/CodingWithJiro)** community, ranking in the top 1% on **[Codewars](https://www.codewars.com/users/CodingWithJiro)**, and staying current with web development trends through **[daily.dev](https://app.daily.dev/elmarchavez)**.
+I master my craft by following a **[frontend roadmap](https://roadmap.sh/frontend?s=67de4dc78342031660de72cc)**, actively building and reviewing in the **[Frontend Mentor](https://www.frontendmentor.io/profile/CodingWithJiro)** community, solving code challenges and ranking in the top 1% on **[Codewars](https://www.codewars.com/users/CodingWithJiro)**, and staying current with web development trends through **[daily.dev](https://app.daily.dev/elmarchavez)**.
 
 # Connect with Me
 
@@ -72,12 +70,3 @@ You can follow or message me in the following links below or view **[my latest C
 
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 _Twitter link to be updated_ -->
-
-<!-- # Support My Journey
-
-If my GitHub helped you in some way, consider supporting me:
-
-[<img alt="Buy Me a Coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="147" />](https://buymeacoffee.com/)
-[<img alt="Ko-fi" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="35" width="147" />](https://ko-fi.com/)
-
-_Links to be updated_ -->
