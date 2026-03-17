@@ -47,12 +47,12 @@ Here are some of my latest projects (🌐 Live Demo · 💻 Source Code):
 # GitHub Stats
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=CodingWithJiro&style=flat-square&color=CC0022" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/CodingWithJiro?label=Followers&style=flat-square&color=CC0022" alt="GitHub Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=CodingWithJiro&style=flat-square&color=0B1F2A" alt="Elmar's total profile views."/>
+  <img src="https://img.shields.io/github/followers/CodingWithJiro?label=Followers&style=flat-square&color=0B1F2A" alt="Elmar's total GitHub followers."/>
 </p>
 
-<img src="https://github-readme-stats-codingwithjiro.vercel.app/api?username=CodingWithJiro&show_icons=true&show_prs=true&title_color=FF0033&text_color=ffffff&icon_color=00E0FF&bg_color=0D0D0D" alt="Elmar's GitHub stats." />
-<img src="https://github-readme-stats-codingwithjiro.vercel.app/api/top-langs/?username=CodingWithJiro&layout=compact&langs_count=6&title_color=FF0033&text_color=FFFFFF&bg_color=0D0D0D" alt="Elmar's top used languages." />
+<img src="https://github-readme-stats-codingwithjiro.vercel.app/api?username=CodingWithJiro&show_icons=true&show_prs=true&title_color=E6EDF3&text_color=AAB8C2&icon_color=00B4D8&bg_color=0B1F2A" />
+<img src="https://github-readme-stats-codingwithjiro.vercel.app/api/top-langs/?username=CodingWithJiro&layout=compact&langs_count=6&title_color=E6EDF3&text_color=AAB8C2&bg_color=0B1F2A" />
 
 # Continuous Learning
 
