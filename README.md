@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./img/top_banner.gif" alt="CodingWithJiro GitHub Banner ">
+    <img src="./img/banner-left.jpg" alt="Elmar Chavez (CodingWithJiro) Frontend developer GitHub banner.">
 </div>
 
 # About Me
