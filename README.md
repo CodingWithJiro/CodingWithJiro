@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./img/top_banner.gif" alt="CodingWithJiro GitHub Banner ">
+    <img src="./img/banner-left.jpg" alt="Elmar Chavez (CodingWithJiro) Frontend developer GitHub banner.">
 </div>
 
 # About Me
@@ -8,7 +8,7 @@
 
 # What I'm Doing Now
 
-Currently, I'm building **[Where In The World w/ REST Countries API](https://github.com/CodingWithJiro/frontend-mentor-where-in-the-world)** using **React + Tailwind CSS + TypeScript**, mastering React fundamentals in **[react.dev](https://react.dev/)**, and actively reviewing projects in **[Frontend Mentor](https://www.frontendmentor.io/profile/CodingWithJiro)**.
+Currently, I'm building **[Where In The World w/ REST Countries API](https://github.com/CodingWithJiro/frontend-mentor-where-in-the-world)** using **React + Tailwind CSS + TypeScript**, completing **[freeCodeCamp's full stack developer curriculum](https://www.freecodecamp.org/learn/full-stack-developer-v9/)**, and actively reviewing projects in **[Frontend Mentor](https://www.frontendmentor.io/profile/CodingWithJiro)**.
 
 # Explore My Work
 
@@ -47,12 +47,12 @@ Here are some of my latest projects (🌐 Live Demo · 💻 Source Code):
 # GitHub Stats
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=CodingWithJiro&style=flat-square&color=CC0022" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/CodingWithJiro?label=Followers&style=flat-square&color=CC0022" alt="GitHub Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=CodingWithJiro&style=flat-square&color=0B1F2A" alt="Elmar's total profile views."/>
+  <img src="https://img.shields.io/github/followers/CodingWithJiro?label=Followers&style=flat-square&color=0B1F2A" alt="Elmar's total GitHub followers."/>
 </p>
 
-<img src="https://github-readme-stats-codingwithjiro.vercel.app/api?username=CodingWithJiro&show_icons=true&show_prs=true&title_color=FF0033&text_color=ffffff&icon_color=00E0FF&bg_color=0D0D0D" alt="Elmar's GitHub stats." />
-<img src="https://github-readme-stats-codingwithjiro.vercel.app/api/top-langs/?username=CodingWithJiro&layout=compact&langs_count=6&title_color=FF0033&text_color=FFFFFF&bg_color=0D0D0D" alt="Elmar's top used languages." />
+<img src="https://github-readme-stats-codingwithjiro.vercel.app/api?username=CodingWithJiro&show_icons=true&show_prs=true&title_color=E6EDF3&text_color=AAB8C2&icon_color=00B4D8&bg_color=0B1F2A" />
+<img src="https://github-readme-stats-codingwithjiro.vercel.app/api/top-langs/?username=CodingWithJiro&layout=compact&langs_count=6&title_color=E6EDF3&text_color=AAB8C2&bg_color=0B1F2A" />
 
 # Continuous Learning
 
@@ -67,6 +67,7 @@ You can follow or message me in the following links below or view **[my latest C
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodingWithJiro)
 [![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/CodingWithJiro)
 [![daily.dev](https://img.shields.io/badge/daily.dev-171717?style=for-the-badge&logo=daily.dev&logoColor=38BDF8)](https://app.daily.dev/elmarchavez)
+[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=00C7B7)](https://dev.to/codingwithjiro)
 
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 _Twitter link to be updated_ -->
