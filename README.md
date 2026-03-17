@@ -8,7 +8,7 @@
 
 # What I'm Doing Now
 
-Currently, I'm building **[Where In The World w/ REST Countries API](https://github.com/CodingWithJiro/frontend-mentor-where-in-the-world)** using **React + Tailwind CSS + TypeScript**, mastering React fundamentals in **[react.dev](https://react.dev/)**, and actively reviewing projects in **[Frontend Mentor](https://www.frontendmentor.io/profile/CodingWithJiro)**.
+Currently, I'm building **[Where In The World w/ REST Countries API](https://github.com/CodingWithJiro/frontend-mentor-where-in-the-world)** using **React + Tailwind CSS + TypeScript**, completing **[freeCodeCamp's full stack developer curriculum](https://www.freecodecamp.org/learn/full-stack-developer-v9/)**, and actively reviewing projects in **[Frontend Mentor](https://www.frontendmentor.io/profile/CodingWithJiro)**.
 
 # Explore My Work
 
