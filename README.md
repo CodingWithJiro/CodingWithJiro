@@ -12,9 +12,9 @@ Currently, I'm building my **[web portfolio](http://github.com/CodingWithJiro/el
 
 # Explore My Work
 
-Check out my **[Projects Hub](https://github.com/CodingWithJiro/Projects)** which is a growing collection of all the web applications I’ve built as a frontend developer.
+**[Projects Hub](https://github.com/CodingWithJiro/Projects)** is a growing collection of all the web applications I’ve built as a full stack developer.
 
-Here are some of my latest projects (🌐 Live Demo · 💻 Source Code):
+Below are some of my latest projects (🌐 Live Demo · 💻 Source Code):
 
 | [<img src="https://raw.githubusercontent.com/CodingWithJiro/frontend-mentor-where-in-the-world/main/public/img/site-preview-desktop_1440x960.png" alt="Project preview." width="400">](https://where-in-the-world-fm-jiro.netlify.app/) |       [<img src="https://raw.githubusercontent.com/CodingWithJiro/w3schools-js-tutorial-clone-site/main/img/site-preview-desktop-dark_1440x960.png" alt="Project preview." width="400">](https://javascript-fundamentals-jiro.netlify.app/)        | [<img src="https://raw.githubusercontent.com/CodingWithJiro/frontend-mentor-browser-extension-manager/main/public/img/site-preview-desktop-dark_1440x960.png" alt="Project preview." width="400">](https://browser-extension-fm-jiro.netlify.app/) |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
