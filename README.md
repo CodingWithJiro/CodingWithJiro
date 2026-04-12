@@ -58,7 +58,7 @@ Below are some of my latest projects (🌐 Live Demo · 💻 Source Code):
 
 # Continuous Learning
 
-I master my craft by following a **[frontend roadmap](https://roadmap.sh/frontend?s=67de4dc78342031660de72cc)**, actively building and reviewing in the **[Frontend Mentor](https://www.frontendmentor.io/profile/CodingWithJiro)** community, solving code challenges and ranking in the top 1% on **[Codewars](https://www.codewars.com/users/CodingWithJiro)**, and staying current with web development trends through **[daily.dev](https://app.daily.dev/elmarchavez)**.
+I master my craft by following a **[frontend](https://roadmap.sh/u/elmarchavez?roadmapId=frontend)** and **[backend](https://roadmap.sh/u/elmarchavez?roadmapId=backend)** roadmap, actively building and reviewing in the **[Frontend Mentor](https://www.frontendmentor.io/profile/CodingWithJiro)** community, solving code challenges and ranking in the top 1% on **[Codewars](https://www.codewars.com/users/CodingWithJiro)**, and staying current with latest tech news through **[dev.to](https://dev.to/codingwithjiro)** and **[daily.dev](https://app.daily.dev/elmarchavez)**.
 
 # Connect with Me
 
