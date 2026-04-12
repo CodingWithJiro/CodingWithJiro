@@ -4,17 +4,17 @@
 
 # About Me
 
-**Licensed civil engineer** turned **full stack developer** building accessible, responsive web applications. I build **[my projects](https://github.com/CodingWithJiro/Projects)** in public, review code in **[Frontend Mentor](https://www.frontendmentor.io/profile/CodingWithJiro)**, and participate in collaborative projects and open source.
+**Licensed civil engineer** turned **full stack developer** building responsive and scalable web applications. I build **[my projects](https://github.com/CodingWithJiro/Projects)** in public, review code, collaborate and contribute in open source.
 
 # What I'm Doing Now
 
-Currently, I'm completing **[freeCodeCamp's full stack developer curriculum](https://www.freecodecamp.org/learn/full-stack-developer-v9/)** diving more in the backend teritory and actively reviewing projects in **[Frontend Mentor](https://www.frontendmentor.io/profile/CodingWithJiro)**.
+Currently, I'm building my **[web portfolio](http://github.com/CodingWithJiro/elmarchavez)**, completing **[freeCodeCamp's full stack developer curriculum](https://www.freecodecamp.org/learn/full-stack-developer-v9/)**, following a **[backend roadmap](https://roadmap.sh/u/elmarchavez?roadmapId=backend)**, and actively reviewing projects in **[Frontend Mentor](https://www.frontendmentor.io/profile/CodingWithJiro)**.
 
 # Explore My Work
 
-Check out my **[Projects Hub](https://github.com/CodingWithJiro/Projects)** which is a growing collection of all the web applications I’ve built as a frontend developer.
+**[Projects Hub](https://github.com/CodingWithJiro/Projects)** is a growing collection of all the web applications I’ve built as a full stack developer.
 
-Here are some of my latest projects (🌐 Live Demo · 💻 Source Code):
+Below are some of my latest projects (🌐 Live Demo · 💻 Source Code):
 
 | [<img src="https://raw.githubusercontent.com/CodingWithJiro/frontend-mentor-where-in-the-world/main/public/img/site-preview-desktop_1440x960.png" alt="Project preview." width="400">](https://where-in-the-world-fm-jiro.netlify.app/) |       [<img src="https://raw.githubusercontent.com/CodingWithJiro/w3schools-js-tutorial-clone-site/main/img/site-preview-desktop-dark_1440x960.png" alt="Project preview." width="400">](https://javascript-fundamentals-jiro.netlify.app/)        | [<img src="https://raw.githubusercontent.com/CodingWithJiro/frontend-mentor-browser-extension-manager/main/public/img/site-preview-desktop-dark_1440x960.png" alt="Project preview." width="400">](https://browser-extension-fm-jiro.netlify.app/) |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -58,7 +58,7 @@ Here are some of my latest projects (🌐 Live Demo · 💻 Source Code):
 
 # Continuous Learning
 
-I master my craft by following a **[frontend roadmap](https://roadmap.sh/frontend?s=67de4dc78342031660de72cc)**, actively building and reviewing in the **[Frontend Mentor](https://www.frontendmentor.io/profile/CodingWithJiro)** community, solving code challenges and ranking in the top 1% on **[Codewars](https://www.codewars.com/users/CodingWithJiro)**, and staying current with web development trends through **[daily.dev](https://app.daily.dev/elmarchavez)**.
+I master my craft by following a **[frontend](https://roadmap.sh/u/elmarchavez?roadmapId=frontend)** and **[backend](https://roadmap.sh/u/elmarchavez?roadmapId=backend)** roadmap, actively building and reviewing in the **[Frontend Mentor](https://www.frontendmentor.io/profile/CodingWithJiro)** community, solving code challenges and ranking in the top 1% on **[Codewars](https://www.codewars.com/users/CodingWithJiro)**, and staying current with latest tech news through **[dev.to](https://dev.to/codingwithjiro)** and **[daily.dev](https://app.daily.dev/elmarchavez)**.
 
 # Connect with Me
 
