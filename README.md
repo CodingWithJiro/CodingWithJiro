@@ -4,7 +4,7 @@
 
 # About Me
 
-**Licensed civil engineer** turned **full stack developer** building accessible, responsive web applications. I build **[my projects](https://github.com/CodingWithJiro/Projects)** in public, review code in **[Frontend Mentor](https://www.frontendmentor.io/profile/CodingWithJiro)**, and participate in collaborative projects and open source.
+**Licensed civil engineer** turned **full stack developer** building responsive and scalable web applications. I build **[my projects](https://github.com/CodingWithJiro/Projects)** in public, review code, collaborate and contribute in open source.
 
 # What I'm Doing Now
 
