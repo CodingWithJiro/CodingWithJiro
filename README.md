@@ -4,11 +4,11 @@
 
 # About Me
 
-**Licensed civil engineer** turned **full stack developer** building responsive and scalable web applications. I build **[my projects](https://github.com/CodingWithJiro/Projects)** in public, review code, collaborate and contribute in open source.
+**Licensed civil engineer** turned **full stack developer** building responsive and scalable web applications. I build **[my projects](https://github.com/CodingWithJiro/Projects)** in public, review code, write technical articles, collaborate and contribute in open source.
 
 # What I'm Doing Now
 
-Currently, I'm building my **[web portfolio](http://github.com/CodingWithJiro/elmarchavez)**, completing **[freeCodeCamp's full stack developer curriculum](https://www.freecodecamp.org/learn/full-stack-developer-v9/)**, following a **[backend roadmap](https://roadmap.sh/u/elmarchavez?roadmapId=backend)**, and actively reviewing projects in **[Frontend Mentor](https://www.frontendmentor.io/profile/CodingWithJiro)**.
+Currently, I'm building my **[web portfolio](http://github.com/CodingWithJiro/elmarchavez)**, completing **[freeCodeCamp's full stack developer curriculum](https://www.freecodecamp.org/learn/full-stack-developer-v9/)**, following a **[backend roadmap](https://roadmap.sh/u/elmarchavez?roadmapId=backend)**, actively reviewing projects in **[Frontend Mentor](https://www.frontendmentor.io/profile/CodingWithJiro)**, and writing tech blogs in **[DEV Community](https://dev.to/codingwithjiro)**.
 
 # Explore My Work
 
@@ -24,7 +24,8 @@ Below are some of my latest projects (🌐 Live Demo · 💻 Source Code):
 
 # Tech Stack
 
-**Libraries & Frameworks:** [<img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />](https://react.dev/)
+**Libraries & Frameworks:** [<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />](https://nextjs.org/)
+[<img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />](https://react.dev/)
 [<img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />](https://tailwindcss.com/)
 [<img alt="React Router" src="https://img.shields.io/badge/-React%20Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" />](https://reactrouter.com/)
 
@@ -33,6 +34,10 @@ Below are some of my latest projects (🌐 Live Demo · 💻 Source Code):
 [<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />](https://www.typescriptlang.org/)
 [<img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />](https://www.markdownguide.org/)
+
+**Backend & Databases:** [<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />](https://nodejs.org/)
+[<img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />](https://expressjs.com/)
+[<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />](https://www.postgresql.org/)
 
 **Tooling & Testing:** [<img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=FFD62E" />](https://vitejs.dev/)
 [<img alt="Vitest" src="https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />](https://vitest.dev/)
@@ -58,7 +63,7 @@ Below are some of my latest projects (🌐 Live Demo · 💻 Source Code):
 
 # Continuous Learning
 
-I master my craft by following a **[frontend](https://roadmap.sh/u/elmarchavez?roadmapId=frontend)** and **[backend](https://roadmap.sh/u/elmarchavez?roadmapId=backend)** roadmap, actively building and reviewing in the **[Frontend Mentor](https://www.frontendmentor.io/profile/CodingWithJiro)** community, solving code challenges and ranking in the top 1% on **[Codewars](https://www.codewars.com/users/CodingWithJiro)**, and staying current with latest tech news through **[dev.to](https://dev.to/codingwithjiro)** and **[daily.dev](https://app.daily.dev/elmarchavez)**.
+I master my craft by following a **[frontend](https://roadmap.sh/u/elmarchavez?roadmapId=frontend)** and **[backend](https://roadmap.sh/u/elmarchavez?roadmapId=backend)** roadmap, actively building and reviewing in the **[Frontend Mentor](https://www.frontendmentor.io/profile/CodingWithJiro)** community, solving code challenges and ranking in the top 0.5% on **[Codewars](https://www.codewars.com/users/CodingWithJiro)**, and staying current with latest tech news through **[dev.to](https://dev.to/codingwithjiro)** and **[daily.dev](https://app.daily.dev/elmarchavez)**.
 
 # Connect with Me
 
