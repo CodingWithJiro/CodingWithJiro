@@ -8,7 +8,7 @@
 
 # What I'm Doing Now
 
-Currently, I'm building my **[web portfolio](http://github.com/CodingWithJiro/elmarchavez)**, completing **[freeCodeCamp's full stack developer curriculum](https://www.freecodecamp.org/learn/full-stack-developer-v9/)**, following a **[backend roadmap](https://roadmap.sh/u/elmarchavez?roadmapId=backend)**, and actively reviewing projects in **[Frontend Mentor](https://www.frontendmentor.io/profile/CodingWithJiro)**.
+Currently, I'm building my **[web portfolio](http://github.com/CodingWithJiro/elmarchavez)**, completing **[freeCodeCamp's full stack developer curriculum](https://www.freecodecamp.org/learn/full-stack-developer-v9/)**, following a **[backend roadmap](https://roadmap.sh/u/elmarchavez?roadmapId=backend)**, actively reviewing projects in **[Frontend Mentor](https://www.frontendmentor.io/profile/CodingWithJiro)**, and writing tech blogs in **[DEV Community](https://dev.to/codingwithjiro)**.
 
 # Explore My Work
 
