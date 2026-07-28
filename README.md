@@ -4,7 +4,11 @@
 
 # About Me
 
-**Licensed civil engineer** turned **full stack developer** building responsive and scalable web applications. I build **[my projects](https://github.com/CodingWithJiro/Projects)** in public, review code, write technical articles, collaborate and contribute in open source.
+**Licensed civil engineer turned full stack developer** who enjoys applying engineering principles to building software. I've worked with modern web technologies while collaborating with other developers, contributing to open source, reviewing code, and improving existing applications.
+
+I'm passionate about building accessible, maintainable, and user-focused web applications with modern frontend technologies, comprehensive testing, reliable CI/CD pipelines, and clear documentation.
+
+I also enjoy writing **technical articles** and staying engaged with the developer community through organizations such as **Virtual Coffee**, **DEV Community**, **Daily Dev**, and **Freedom in Tech**.
 
 # What I'm Doing Now
 
