@@ -12,7 +12,7 @@ I also enjoy writing **technical articles** and staying engaged with the develop
 
 # What I'm Doing Now
 
-Currently, I'm building my **[web portfolio](http://github.com/CodingWithJiro/elmarchavez)**, completing **[freeCodeCamp's full stack developer curriculum](https://www.freecodecamp.org/learn/full-stack-developer-v9/)**, following a **[backend roadmap](https://roadmap.sh/u/elmarchavez?roadmapId=backend)**, actively reviewing projects in **[Frontend Mentor](https://www.frontendmentor.io/profile/CodingWithJiro)**, and writing tech blogs in **[DEV Community](https://dev.to/codingwithjiro)**.
+Currently, I'm contributing to **[CALEC's Ri2L web application](https://calec.org/)**, writing technical blogs in **[DEV Community](https://dev.to/codingwithjiro)**, reviewing projects in **[Frontend Mentor](https://www.frontendmentor.io/profile/CodingWithJiro)**, engaging in different tech communities, building portfolio projects, and continuously expanding my backend knowledge through **[freeCodeCamp's Full Stack Developer curriculum](https://www.freecodecamp.org/learn/full-stack-developer-v9/)** and a **[backend roadmap](https://roadmap.sh/u/elmarchavez?roadmapId=backend)**.
 
 # Explore My Work
 
