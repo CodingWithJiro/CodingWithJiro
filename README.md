@@ -84,14 +84,16 @@ I continuously improve my skills through hands-on development, open source colla
 
 # Connect with Me
 
-You can follow or message me in the following links below or view **[my latest CV here](https://docs.google.com/document/d/1EgAQ13Kd732JbctzxesEL9H9eETYl2Twdtxsou2qc_8/edit?usp=drive_link)**
+Feel free to connect with me or explore more of my work through the links below:
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B1F2A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://elmarchavez.vercel.app)
+[![Resume](https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1EgAQ13Kd732JbctzxesEL9H9eETYl2Twdtxsou2qc_8/edit?usp=drive_link)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elmar-chavez/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chavezelmar03@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodingWithJiro)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chavezelmar03@gmail.com)
 [![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/CodingWithJiro)
-[![daily.dev](https://img.shields.io/badge/daily.dev-171717?style=for-the-badge&logo=daily.dev&logoColor=38BDF8)](https://app.daily.dev/elmarchavez)
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=00C7B7)](https://dev.to/codingwithjiro)
+[![daily.dev](https://img.shields.io/badge/daily.dev-171717?style=for-the-badge&logo=daily.dev&logoColor=38BDF8)](https://app.daily.dev/elmarchavez)
 
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 _Twitter link to be updated_ -->
